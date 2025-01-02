@@ -39,9 +39,7 @@ Variante: Der Austritt kann jederzeit schriftlich gegenüber dem Vorstand erklä
 ### Ausschluss
 
     1. Der Vorstand kann ein Mitglied ohne Angabe von Gründen vom Verein ausschließen. Der Ausschluss erfolgt nur nach Anhörung des Mitgliedes und wird diesem schriftlich [Variante: mündlich] erklärt. Der Ausschluss gilt per sofort.
-Variante: Der Vorstand kann ein Mitglied vom Verein ausschließen, wenn es den Mitgliederbeitrag trotz Mahnung nicht bezahlt, den Interessen des Vereins in schwerwiegender Weise zuwiderhandelt oder andere wichtige Gründe einen Ausschluss rechtfertigen. Der Ausschluss erfolgt nur nach Anhörung des Mitgliedes und wird diesem schriftlich [Variante: mündlich] erklärt. Der Ausschluss gilt per sofort.
     2. Der Ausschluss ist endgültig. Die Möglichkeit eines Rekurses an die Vereinsversammlung besteht nicht.
-Variante: Der Ausschluss ist endgültig, soweit das Mitglied nicht innert ____ [Anzahl, z.B. 30] Tagen nach Erhalt der schriftlichen [Variante: mündlichen] Mitteilung an die Vereinsversammlung rekurriert. Diese entscheidet an der nächsten Sitzung endgültig über den Rekurs. Die Akten des Verfahrens werden ____ [Anzahl, z.B. 10] Tage vor der Behandlung des Rekurses durch die Vereinsversammlung am Sitz des Vereins zur Einsichtnahme durch die stimmberechtigten Mitglieder aufgelegt.
 
 ### Tod bei natürlichen Personen bzw. Verlust der Rechtsfähigkeit bei juristischen Personen
 
@@ -78,7 +76,7 @@ Die Organe des Vereins sind:
     7. Abstimmungen und Wahlen finden offen oder auf Beschluss der Vereinsversammlung schriftlich statt.
     8. Jedes Vereinsmitglied hat eine Stimme und kann sich mittels schriftlicher Vollmacht durch eine Drittperson [Variante: ein anderes Vereinsmitglied] vertreten lassen.
     9. Die Vereinsversammlung fasst ihre Beschlüsse und vollzieht ihre Wahlen mit der absoluten [Variante: einfachen] Mehrheit der anwesenden Mitglieder, sofern nicht eine zwingende Vorschrift des Gesetzes oder die Statuten etwas anderes bestimmen. Bei Stimmengleichheit hat der Vorsitzende den Stichentscheid. [Zusatz beim absoluten Mehr: Kommt bei Wahlen im ersten Wahlgang die Wahl nicht zustande, findet ein zweiter Wahlgang statt, in welchem das relative Mehr entscheidet.]
-
+    
 ### Vorstand
 
     1. Der Vorstand besteht aus _____ [Anzahl, z.B. 5] Mitgliedern. Sie werden von der Vereinsversammlung für die Amtsdauer von _____ [Anzahl, z.B. 2] Jahren gewählt. Wiederwahl ist zulässig. Eine Abberufung ist jederzeit und fristlos möglich.

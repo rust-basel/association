@@ -19,7 +19,7 @@ Der Vorstand entscheidet über die Aufnahme von Mitgliedern nach schriftlich ein
 ## Mitgliederbeitrag
 
 Der Mitgliederbeitrag wird von der Vereinsversammlung jährlich festgelegt. Er beträgt maximal CHF______ pro Jahr.
-Mitglieder haben für das Kalenderjahr, in welchem ihre Aufnahme erfolgt bzw. ihre Mitgliedschaft erlischt, den anteilsmässigen [Variante: vollen] Mitgliederbeitrag zu entrichten.
+Mitglieder haben für das Kalenderjahr, in welchem ihre Aufnahme erfolgt bzw. ihre Mitgliedschaft erlischt, den anteilsmässigen Mitgliederbeitrag zu entrichten.
 
 
 ## Erlöschen der Mitgliedschaft
@@ -33,7 +33,7 @@ Die Mitgliedschaft erlischt durch
 
 ### Austritt
 
-Der Austritt kann unter Einhaltung einer Frist von ____ [Anzahl, max. 6] Monaten auf das Ende des Kalenderjahrs schriftlich gegenüber dem Vorstand erklärt werden.
+Der Austritt kann unter Einhaltung einer Frist von einem Monat auf das Ende des Kalenderjahrs schriftlich gegenüber dem Vorstand erklärt werden.
 Variante: Der Austritt kann jederzeit schriftlich gegenüber dem Vorstand erklärt werden und tritt sofort in Kraft.
 
 ### Ausschluss
@@ -53,33 +53,33 @@ Die Mitgliedschaft ist weder vererblich noch rechtsgeschäftlich übertragbar.
 Die Organe des Vereins sind:
     • die Vereinsversammlung
     • der Vorstand
-    • die Revisionsstelle [der Revisor]
+    • die Revisionsstelle
 
 
 ### Vereinsversammlung
 
 1. Oberstes Organ des Vereins ist die Vereinsversammlung. Ihr stehen folgende Befugnisse zu:
    a. Genehmigung des Protokolls der letzten Vereinsversammlung;
-   b. Abnahme des Jahresberichts, der Jahresrechnung, des Jahresbudgets und des Berichts der Revisionsstelle [des Revisors];
-   c. Entlastung des Vorstandes und der Revisionsstelle [des Revisors]
+   b. Abnahme des Jahresberichts, der Jahresrechnung, des Jahresbudgets und des Berichts der Revisionsstelle;
+   c. Entlastung des Vorstandes und der Revisionsstelle;
    d. Festsetzung der Mitgliederbeiträge und des Jahresbudgets;
-   e. Wahl und Abberufung des Vorstandes und der Revisionsstelle [des Revisors];
+   e. Wahl und Abberufung des Vorstandes und der Revisionsstelle;
    f. Behandlung von Anträgen des Vorstandes und der Mitglieder;
    g. Änderung der Statuten;
    h. Auflösung des Vereins;
    i. Beschlussfassung über die Gegenstände, die der Vereinsversammlung durch das Gesetz oder die Statuten vorbehalten ist.
-2. Die ordentliche Vereinsversammlung findet innerhalb der ersten ____ [Anzahl, z.B. 6] Monate eines Kalenderjahres statt. Die Einladung erfolgt mindestens ____ [Anzahl, z.B. 20] Tage im Voraus schriftlich oder per E-Mail durch den Vorstand und enthält die Traktanden, die Anträge des Vorstandes sowie den Jahresbericht, die Jahresrechnung und den Bericht der Revisionsstelle.
-3. Anträge von Mitgliedern zuhanden der Vereinsversammlung sind schriftlich und spätestens bis 31. Januar eines Kalenderjahres [Hinweis: Angemessene Frist bis Vereinsversammlung, Ziff. 6.2.2] an den Vorstand zu richten. Der Vorstand ergänzt die Traktandenliste um die fristgerecht eingegangenen Anträge.
+2. Die ordentliche Vereinsversammlung findet innerhalb der letzen 6 Monate eines Kalenderjahres statt. Die Einladung erfolgt mindestens 30 Tage im Voraus schriftlich oder per E-Mail durch den Vorstand und enthält die Traktanden, die Anträge des Vorstandes sowie den Jahresbericht, die Jahresrechnung und den Bericht der Revisionsstelle.
+3. Anträge von Mitgliedern zuhanden der Vereinsversammlung sind schriftlich und spätestens bis 31. Januar eines Kalenderjahres an den Vorstand zu richten. Der Vorstand ergänzt die Traktandenliste um die fristgerecht eingegangenen Anträge.
 4. Eine ausserordentliche Vereinsversammlung wird auf Beschluss des Vorstandes, auf Antrag mit schriftlicher Begründung von mindestens 1/5 der stimmberechtigten Mitglieder oder auf Antrag der Revisionsstelle einberufen. Die Einladung erfolgt mindestens ____ [Anzahl, z.B. 10] Tage vor der Versammlung.
-5. Den Vorsitz der Vereinsversammlung führt der Präsident, bei dessen Verhinderung der Vizepräsident des Vorstandes oder ein anderer von der Vereinsversammlung gewählter Tagespräsident. Der Vorsitzende [Variante: Die Vereinsversammlung] bezeichnet einen Protokollführer und ____ [Anzahl, z.B. 2] stimmberechtigte Mitglieder für die Ermittlung von Abstimmungs- und Wahlergebnissen.
+5. Den Vorsitz der Vereinsversammlung führt der Präsident, bei dessen Verhinderung der Vizepräsident des Vorstandes oder ein anderer von der Vereinsversammlung gewählter Tagespräsident. Die Vereinsversammlung bezeichnet einen Protokollführer und 2 stimmberechtigte Mitglieder für die Ermittlung von Abstimmungs- und Wahlergebnissen.
 6. Über die Beschlüsse der Vereinsversammlung ist ein Protokoll zu führen, das vom Vorsitzenden und vom Protokollführer unterzeichnet wird. Die Mitglieder sind berechtigt, das Protokoll einzusehen.
 7. Abstimmungen und Wahlen finden offen oder auf Beschluss der Vereinsversammlung schriftlich statt.
-8. Jedes Vereinsmitglied hat eine Stimme und kann sich mittels schriftlicher Vollmacht durch eine Drittperson [Variante: ein anderes Vereinsmitglied] vertreten lassen.
-9. Die Vereinsversammlung fasst ihre Beschlüsse und vollzieht ihre Wahlen mit der absoluten [Variante: einfachen] Mehrheit der anwesenden Mitglieder, sofern nicht eine zwingende Vorschrift des Gesetzes oder die Statuten etwas anderes bestimmen. Bei Stimmengleichheit hat der Vorsitzende den Stichentscheid. [Zusatz beim absoluten Mehr: Kommt bei Wahlen im ersten Wahlgang die Wahl nicht zustande, findet ein zweiter Wahlgang statt, in welchem das relative Mehr entscheidet.]
+8. Jedes Vereinsmitglied hat eine Stimme und kann sich mittels schriftlicher Vollmacht durch eine Drittperson vertreten lassen.
+9. Die Vereinsversammlung fasst ihre Beschlüsse und vollzieht ihre Wahlen mit der absoluten Mehrheit der anwesenden Mitglieder, sofern nicht eine zwingende Vorschrift des Gesetzes oder die Statuten etwas anderes bestimmen. Bei Stimmengleichheit hat der Vorsitzende den Stichentscheid. [Zusatz beim absoluten Mehr: Kommt bei Wahlen im ersten Wahlgang die Wahl nicht zustande, findet ein zweiter Wahlgang statt, in welchem das relative Mehr entscheidet.]
     
 ### Vorstand
 
-1. Der Vorstand besteht aus _____ [Anzahl, z.B. 5] Mitgliedern. Sie werden von der Vereinsversammlung für die Amtsdauer von _____ [Anzahl, z.B. 2] Jahren gewählt. Wiederwahl ist zulässig. Eine Abberufung ist jederzeit und fristlos möglich.
+1. Der Vorstand besteht aus 3 Mitgliedern. Sie werden von der Vereinsversammlung für die Amtsdauer von einem Jahren gewählt. Wiederwahl ist zulässig. Eine Abberufung ist jederzeit und fristlos möglich.
 2. Die Vereinsversammlung wählt den Präsidenten. Im Übrigen konstituiert sich der Vorstand selbst und bestimmt die Zeichnungsberechtigung. Grundsätzlich gilt Kollektivunterschrift [Variante: Einzelunterschrift]. Der Vorstand besteht aus dem Präsidenten, Vizepräsidenten, Aktuar und Kassier. Ämterkumulation ist zulässig.
 3. Dem Vorstand obliegt die Leitung und Vertretung des Vereins. Er kann in allen Angelegenheiten Beschluss fassen, die nicht nach dem Gesetz oder den Statuten der Vereinsversammlung zugeteilt sind. Es sind dies insbesondere:
    a. Führung der laufenden Geschäfte und Organisation des Vereins;
@@ -103,8 +103,8 @@ Die Organe des Vereins sind:
 
 ## Statutenänderungen und Auflösung
 
-1. Statutenänderungen und die Auflösung des Vereins erfordern die Anwesenheit von mindestens drei Vierteln [Variante: der Hälfte, zwei Dritteln etc.] aller Mitglieder sowie die absolute Mehrheit der abgegebenen Stimmen.
-2. Wird eines der Quoren nicht erreicht, ist eine zweite Vereinsversammlung mit den gleichen Traktanden innerhalb von _____ [Anzahl, z.B. 6] Wochen einzuberufen. Diese Versammlung ist ohne Rücksicht auf die Zahl der anwesenden Mitglieder beschlussfähig.
+1. Statutenänderungen und die Auflösung des Vereins erfordern die Anwesenheit von mindestens drei Vierteln aller Mitglieder sowie die absolute Mehrheit der abgegebenen Stimmen.
+2. Wird eines der Quoren nicht erreicht, ist eine zweite Vereinsversammlung mit den gleichen Traktanden innerhalb von 8 Wochen einzuberufen. Diese Versammlung ist ohne Rücksicht auf die Zahl der anwesenden Mitglieder beschlussfähig.
 3. Im Falle der Auflösung bestimmt die Vereinsversammlung über die Verwendung des Liquidationserlöses.
 
 ## Inkrafttreten der Statuten

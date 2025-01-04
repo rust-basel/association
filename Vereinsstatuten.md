@@ -1,4 +1,6 @@
-# Statuten des Vereins Rust Basel
+# Statuten des Vereins Rust Basel 
+
+> Version 0.1
 
 ## Name und Sitz
 
@@ -114,7 +116,7 @@ Diese Statuten wurden an der Gründerversammlung vom ____________ genehmigt und 
 
 
 ______________________________
- Ort und Datum
+Ort und Datum
 
 
 ______________________________

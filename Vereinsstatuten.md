@@ -20,7 +20,7 @@ Der Vorstand entscheidet über die Aufnahme von Mitgliedern nach schriftlich ein
 
 ## Mitgliederbeitrag
 
-Der Mitgliederbeitrag wird von der Vereinsversammlung jährlich festgelegt. Er beträgt maximal CHF______ pro Jahr.
+Der Mitgliederbeitrag wird von der Vereinsversammlung jährlich festgelegt.
 Mitglieder haben für das Kalenderjahr, in welchem ihre Aufnahme erfolgt bzw. ihre Mitgliedschaft erlischt, den anteilsmässigen Mitgliederbeitrag zu entrichten.
 
 
@@ -35,8 +35,7 @@ Die Mitgliedschaft erlischt durch
 
 ### Austritt
 
-Der Austritt kann unter Einhaltung einer Frist von einem Monat auf das Ende des Kalenderjahrs schriftlich gegenüber dem Vorstand erklärt werden.
-Variante: Der Austritt kann jederzeit schriftlich gegenüber dem Vorstand erklärt werden und tritt sofort in Kraft.
+Der Austritt kann jederzeit schriftlich gegenüber dem Vorstand erklärt werden und tritt sofort in Kraft.
 
 ### Ausschluss
 

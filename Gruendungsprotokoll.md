@@ -1,20 +1,38 @@
-# Protokoll der Gründungsversammlung des Vereins [Vereinsname], mit Sitz in [Ort]
+# Protokoll der Gründungsversammlung des Vereins Rust Basel, mit Sitz in Basel-Stadt 
 
-**Datum:** [Datum]  
-**Beginn der Sitzung:** [Uhrzeit]  
-**Ort:** [Veranstaltungsort, Adresse, PLZ Ort]  
-**Anwesend:** [Anzahl] Gründer/innen, nämlich: [Namen der Gründer/innen]
+**Datum:**  _______________________________________________   
+**Beginn der Sitzung:**  ____________________________________  
+**Ort mit PLZ:** __________________________________________   
+**Anwesende Gründer/innen:**
 
-**Vorsitz:** [Name des Vorsitzenden]  
-**Protokoll:** [Name des Protokollführers]
+- Name/Vorname:___________________________________________ 
+- Name/Vorname:___________________________________________
+- Name/Vorname:___________________________________________
+- Name/Vorname:___________________________________________
+- Name/Vorname:___________________________________________
+- Name/Vorname:___________________________________________
+- Name/Vorname:___________________________________________
+- Name/Vorname:___________________________________________
+
+
+
+
+## Traktanden
+
+1. Formelles
+2. Gründungsbeschluss
+3. Genehmigung der Statuten
+4. Wahl des Vorstands
+5. Wahl der Rechnungsrevisoren
 
 ## 1. Formelles
 
-Als Vorsitzender der Versammlung wird [Name des Vorsitzenden] und als Protokollführer/in [Name des Protokollführers] gewählt.
+1.1 Die Traktandenliste wird einstimmig angenommen.  
+1.2 Als Vorsitzender der Versammlung wird  ______________________________ und als Protokollführer/in ______________________________ gewählt.
 
 ## 2. Gründungsbeschluss
 
-Die Versammlung beschliesst, unter dem Namen [Vereinsname] einen Verein gemäss Art. 60 ff. des Schweizerischen Zivilgesetzbuches (ZGB) mit Sitz in [Ort], [Adresse], zu gründen.
+Die Versammlung beschliesst, unter dem Namen Rust Basel einen Verein gemäss Art. 60 ff. des Schweizerischen Zivilgesetzbuches (ZGB) mit Sitz in Basel, zu gründen.
 
 ## 3. Genehmigung der Statuten
 
@@ -22,31 +40,47 @@ Die Versammlung genehmigt den vorliegenden Statutenentwurf und legt ihn als gül
 
 ## 4. Wahl des Vorstandes
 
-Als Mitglieder des Vorstandes werden gewählt:
+Als Mitglieder des Vorstandes werden gewählt (Präsidenten, Vizepräsidenten, Aktuar und Kassier):
 
-1. [Name], [Staatsangehörigkeit], wohnhaft in [Wohnort];
-2. [Name], [Staatsangehörigkeit], wohnhaft in [Wohnort];
-3. [Name], [Staatsangehörigkeit], wohnhaft in [Wohnort];
-4. [Name], [Staatsangehörigkeit], wohnhaft in [Wohnort].
+Gemäss Abschnitt _Vorstand_ der Statuten wird der Präsident durch die Vereinsversammlung bestimmt. Entsprechend wählt die Versammlung den Präsidenten:
+
+Im Übrigen konstituiert sich der Vorstand gemäss Abschnitt _Vorstand_ der Statuten selbst und bestimmt die zeichnungsberechtigten Personen sowie die Art deren Zeichnung.
+
+1. Präsident: (Name)________________, (Staat) ______________, wohnhaft in ______________ ;  
+2. Vizepräsident: (Name)________________, (Staat) ______________, wohnhaft in ______________ ;  
+3. Aktuar: (Name)________________, (Staat) ______________, wohnhaft in ______________ ;  
+4. Kassier: (Name)________________, (Staat) ______________, wohnhaft in ______________ ;  
+
+Andere Rollen (optional)
+
+5. (Rolle) ___________: (Name)________________, (Staat) ______________, wohnhaft in ______________ ;  
+6. (Rolle) ___________: (Name)________________, (Staat) ______________, wohnhaft in ______________ ;  
+7. (Rolle) ___________: (Name)________________, (Staat) ______________, wohnhaft in ______________ ;  
+8. (Rolle) ___________: (Name)________________, (Staat) ______________, wohnhaft in ______________ ;  
+
 
 Alle Gewählten erklären die Annahme der Wahl.
-
-Gemäss Art. [Artikelnummer] der Statuten wird der Präsident durch die Generalversammlung bestimmt. Entsprechend wählt die Versammlung den Präsidenten:
-
-**Präsident:** [Name des Präsidenten], [Staatsangehörigkeit], wohnhaft in [Wohnort].
-
-Im Übrigen konstituiert sich der Vorstand gemäss Art. [Artikelnummer] der Statuten selbst und bestimmt die zeichnungsberechtigten Personen sowie die Art deren Zeichnung.
 
 ## 5. Wahl der Rechnungsrevisoren
 
 Als Rechnungsrevisoren werden gewählt:
 
-1. [Name], [Staatsangehörigkeit], wohnhaft in [Wohnort];
-2. [Name], [Staatsangehörigkeit], wohnhaft in [Wohnort].
+(Name) ________________, (Staat) ______________, wohnhaft in ______________ ;  
+(Name) ________________, (Staat) ______________, wohnhaft in ______________ ;
 
----
 
-[Name des Vorsitzenden], **Vorsitz**  
-[Name des Protokollführers], **Protokoll**
+**Ende der Sitzung (Uhrzeit):**
 
-**Ende der Sitzung:** [Uhrzeit]
+
+
+______________________________
+Ort und Datum
+
+
+______________________________
+[Unterschrift Gründerpräsident]
+
+
+______________________________
+[Unterschrift Protokollführer]
+

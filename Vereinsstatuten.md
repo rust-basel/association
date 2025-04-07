@@ -28,10 +28,10 @@ Mitglieder haben für das Kalenderjahr, in welchem ihre Aufnahme erfolgt bzw. ih
 
 ### Erlöschensgründe
 
-Die Mitgliedschaft erlischt durch
-    • Austritt
-    • Ausschluss
-    • Tod bei natürlichen Personen bzw. Verlust der Rechtsfähigkeit bei juristischen Personen.
+Die Mitgliedschaft erlischt durch  
+    • Austritt  
+    • Ausschluss  
+    • Tod bei natürlichen Personen bzw. Verlust der Rechtsfähigkeit bei juristischen Personen.  
 
 ### Austritt
 
@@ -51,10 +51,10 @@ Die Mitgliedschaft ist weder vererblich noch rechtsgeschäftlich übertragbar.
 ### Organe
 
 
-Die Organe des Vereins sind:
-    • die Vereinsversammlung
-    • der Vorstand
-    • die Revisionsstelle
+Die Organe des Vereins sind:  
+    • die Vereinsversammlung  
+    • der Vorstand  
+    • die Revisionsstelle  
 
 
 ### Vereinsversammlung
@@ -114,14 +114,13 @@ Die Organe des Vereins sind:
 Diese Statuten wurden an der Gründerversammlung vom 08.04.25 genehmigt und treten sofort in Kraft.
 
 
-______________________________
-Ort und Datum
+Ort und Datum  
 
 
-______________________________
-[Unterschrift Gründerpräsident]
+
+[Unterschrift Gründerpräsident]  
 
 
-______________________________
-[Unterschrift Protokollführer]
+
+[Unterschrift Protokollführer]  
 

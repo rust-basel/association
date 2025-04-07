@@ -111,7 +111,7 @@ Die Organe des Vereins sind:
 ## Inkrafttreten der Statuten
 
 
-Diese Statuten wurden an der Gründerversammlung vom ____________ genehmigt und treten sofort in Kraft.
+Diese Statuten wurden an der Gründerversammlung vom 08.04.25 genehmigt und treten sofort in Kraft.
 
 
 ______________________________

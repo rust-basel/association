@@ -12,6 +12,8 @@ publish:
 to_pdf filename:
     md2pdf {{filename}}.md published/{{filename}}.pdf
 
+pandoc filename:
+    pandoc {{filename}}.md -o published/{{filename}}.pdf
 
 install_tools:
     pip install md2pdf

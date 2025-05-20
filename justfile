@@ -17,3 +17,6 @@ pandoc filename:
 
 install_tools:
     pip install md2pdf
+
+slides:
+  typst watch slides/main.typ slides/out/slides.pdf

@@ -37,7 +37,7 @@
   = About Rust-Basel
 
     - Non-profit swiss association
-    - Found in March
+    - Founded in March
     #toolbox.side-by-side[
       #image("images/jonatas.jpeg")
     ][

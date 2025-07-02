@@ -7,7 +7,7 @@
   math-font: "DejaVu Sans Mono",
   code-font: "DejaVu Sans Mono",
   text-size: 22pt,
-  footer: [Rust Meetup \#11 \@ letsboot],
+  footer: [Rust Meetup \#12 \@ kHaus],
 )
 
 #set page(paper: "presentation-16-9")
@@ -18,7 +18,7 @@
     #toolbox.side-by-side[
     Rust Basel \
     #text(size: 0.5em)[
-    Rust Meetup \#11 \@letsboot]
+    Rust Meetup \#12 \@kHaus]
     ][
     #image("images/favicon.png")
     ]
@@ -28,9 +28,9 @@
   = Agenda
 
    - Rust Basel
-   - A word from our sponsors: _letsboots, Endress+Hauser_
-   - #text(weight: "bold")[Jan Cristina: _Diplomat: a tool for generating polyglot bindings to Rust code_]
-   - Networking & Pizza Enjoyment 🍕
+   - A word from our sponsors: _Endress+Hauser_
+   - #text(weight: "bold")[Silen Locatelli: _Your first Rust CLI Project_]
+   - Networking & Pizza Enjoyment 🍕 & Rhine swim 🏊🏼
 ]
 
 #slide[
@@ -49,21 +49,6 @@
     ][
       #image("images/yasin.jpeg")
     ]
-]
-
-#slide[
-    #show: focus
-    #text(size: 0.8em)[
-    Pizza-Order
-    ] \
-    #text(size: 0.5em)[
-    https://dieci.ch
-    ]
-]
-
-#slide[
-    #show: focus
-    #image("images/letsboot-color-with-text.png")
 ]
 
 #slide[

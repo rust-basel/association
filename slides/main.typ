@@ -25,15 +25,6 @@
 ]
 
 #slide[
-  = Agenda
-
-   - Rust Basel
-   - A word from our sponsors: _Endress+Hauser_
-   - #text(weight: "bold")[Silen Locatelli: _Your first Rust CLI Project_]
-   - Networking & Pizza Enjoyment 🍕 & Rhine swim 🏊🏼
-]
-
-#slide[
   = About Rust-Basel
 
     - Non-profit swiss association
@@ -52,15 +43,60 @@
 ]
 
 #slide[
-    #show: focus
+  = Thanks to Contributers
+
+  #align(center + horizon)[
+    #image("images/m-vz.jpeg", width: 20%)
+  ]
+]
+
+#slide[
+  = Thanks to Sponsors
+
+  #align(center + horizon)[
     #rect(fill:white, width: 100%, height: 100%)[
         #stack(
             image("images/letsboot.ch-claim.svg", width: 80%)
         )
     ]
+  ]
 ]
 
 #slide[
-    #show: focus
-    #rect(fill:white, width: 100%, height: 100%)[#image("images/eh-logo.svg", width: 80%)]
+  = Thanks to Sponsors
+
+  #align(center + horizon)[
+    #rect(fill:white, width: 100%, height: 100%)[
+      #image("images/eh-logo.svg", width: 80%)
+    ]
+  ]
+]
+
+#slide[
+  = Today
+
+  #toolbox.side-by-side[
+    #list(
+      [Setup & hands-on (Chapters 1-6, more lecturelike)],
+      [12:00! 🍕\@Vito - Pizza is sponsored, Drinks not],
+      [13:00-16:00: Choose a project yourself and build!],
+    )
+  ][
+    #image("images/qr-code.png", width: 80%)
+  ]
+]
+
+#slide[
+  = Today
+
+  #toolbox.side-by-side[
+    #list(
+      [Choose a partner - it's more fun together],
+      [12 PM 🍕 Time],
+      [If any Qs - no fear to ask for help]
+    )
+  ][
+    // Right side with QR code
+    #image("images/qr-code.png", width: 80%)
+  ]
 ]

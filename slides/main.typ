@@ -7,7 +7,7 @@
   math-font: "DejaVu Sans Mono",
   code-font: "DejaVu Sans Mono",
   text-size: 22pt,
-  footer: [Rust Meetup \#12 \@ kHaus],
+  footer: [Rust Workshop \#4 \@ letsboot],
 )
 
 #set page(paper: "presentation-16-9")
@@ -18,7 +18,7 @@
     #toolbox.side-by-side[
     Rust Basel \
     #text(size: 0.5em)[
-    Rust Meetup \#12 \@kHaus]
+    Rust Workshop \#4 \@ letsboot]
     ][
     #image("images/favicon.png")
     ]
@@ -48,6 +48,15 @@
       #image("images/roland.jpeg")
     ][
       #image("images/yasin.jpeg")
+    ]
+]
+
+#slide[
+    #show: focus
+    #rect(fill:white, width: 100%, height: 100%)[
+        #stack(
+            image("images/letsboot.ch-claim.svg", width: 80%)
+        )
     ]
 ]
 

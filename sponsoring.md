@@ -23,7 +23,7 @@ Wir bieten für Sponsoren:
 
 ### Bronze - 300 CHF
 - Logo Präsenz am Event
-- Event ist offensichtlich gesponsert von Infomaniak
+- Event ist offensichtlich gesponsert von Sponsor
 - Nennung als Sponsoring mündlich und auf allen Medien
 
 ### Silber - 400 CHF

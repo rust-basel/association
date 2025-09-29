@@ -18,7 +18,7 @@ Wir bieten für Sponsoren:
 
 - Durchgehende Logo Präsenz und Nennung als Partner an Events
 - Werbung für Produkte an Events
-> Muss als Geldwert oder als Verplegung gesponsert sein
+> Muss als Geldwert oder als Verpflegung gesponsert sein
 
 ## Eventsponsoring
 

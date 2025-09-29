@@ -14,7 +14,7 @@ Wir bieten für Sponsoren:
 - Werbung für Produkte an Events.
 - Nach Absprache Werbung auf Social Media.
 
-## Verplegungs Partnerschaft - ein Jahr - Im Wert von 1000 CHF
+## Verpflegungs Partnerschaft - ein Jahr - Im Wert von 1000 CHF
 
 - Durchgehende Logo Präsenz und Nennung als Partner an Events
 - Werbung für Produkte an Events.

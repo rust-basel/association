@@ -10,14 +10,15 @@ Wir bieten für Sponsoren:
 ## Partnerschaft - ein Jahr - Im Wert von 2000 CHF
 
 - Durchgehende Logo Präsenz und Nennung als Partner an Events, Website, GitHub
-- Werbung für Hiring falls es offene Stellen gibt.
-- Werbung für Produkte an Events.
-- Nach Absprache Werbung auf Social Media.
+- Werbung für Hiring falls es offene Stellen gibt
+- Werbung für Produkte an Events
+- Nach Absprache Werbung auf Social Media
 
 ## Verpflegungs Partnerschaft - ein Jahr - Im Wert von 1000 CHF
 
 - Durchgehende Logo Präsenz und Nennung als Partner an Events
-- Werbung für Produkte an Events.
+- Werbung für Produkte an Events
+> Muss als Geldwert oder als Verplegung gesponsert sein
 
 ## Eventsponsoring
 

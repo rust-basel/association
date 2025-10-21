@@ -19,11 +19,11 @@
    a) **Anpassung des Vereinszwecks**
    - Zweck wird leicht angepasst, um Steuerbefreiung zu ermöglichen
 
-   b) **Einführung von Passivrnitgliedschaften**
-   - Neue Kategorie der Passivrnitgliedschaften wird eingeführt
-   - Passivrnitglieder erhalten Zugang zur Mitgliederliste (PR-freigabe)
-   - Ziel: Bessere Außenwirkung für Unternehmen und Behörden durch Kennzeichnung von über 10 Passivrnitgliedern
-   - Tiefere Schwelle für Passivrnitgliedschaften (Einladung zur GV und Teilnahme nicht erforderlich)
+   b) **Einführung von Passivmitgliedschaften**
+   - Neue Kategorie der Passivmitgliedschaften wird eingeführt
+   - Passivmitglieder erhalten Zugang zur Mitgliederliste (PR-freigabe)
+   - Ziel: Bessere Außenwirkung für Unternehmen und Behörden durch Kennzeichnung von über 10 Passivmitglieder
+   - Tiefere Schwelle für Passivmitgliedschaften (Einladung zur GV und Teilnahme nicht erforderlich)
 
 ---
 

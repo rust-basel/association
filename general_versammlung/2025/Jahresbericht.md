@@ -24,13 +24,17 @@ Rust Basel ist eine Community-basierte Vereinigung, die sich der Programmierspra
 **Meetups:**
 - Regelmäßige Rust-Meetups mit Vorträgen und Diskussionen
 - Rust Meetup #8: Fokus auf Testing mit Maintainern von mockall und proptest-rs
+- Rust Meetup #9: Ein Abend mit drei Talks. Testen der eigenen API mit Hurl, bauen eines eigenen git tools sowie das Vorstellen des Tauri Frameworks
 - Rust Meetup #10: Talks, Snacks und Community-Diskussionen zur Rust-Adoption in der Industrie
-- weitere...
+- Rust Meetup #11: Talk über ein Binding Tool (Diplomat), das ermöglicht Rust in anderen unterschiedlichen Programmiersprachen zu verwenden mit Pizza danach
+- Rust Meetup #12: Talk über Tipps und Tricks wie man sein erstes CLI Tool in Rust schreibt
+- Rust Meetup #13: Talks, über das Entwickeln einer Domain Specific Language (DSL) mit Rust, sowie ein intigrierbares Tool für die Authentifizierung (keyrunes)
 
 **Workshops:**
 - Rust Workshop #1: „Pokedex mit Axum" – Anfängerkurs für REST-Backend-Entwicklung
 - Rust Workshop #2: Fullstack Rust – Aufbau einer kompletten Web-Anwendung in Rust
 - Rust Workshop #3: Rust + HTMX – Server-Side Rendering mit Axum und Askama
+- Rust Workshop #4: Rust Embedded - Ein Intro Workshop in die Embedded Rust Welt mit ESP32 Microcontrollern
 
 **Thematische Schwerpunkte:**
 - Backend-Entwicklung (Axum-Framework)

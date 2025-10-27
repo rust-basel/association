@@ -1,5 +1,5 @@
 # Jahresrechnung Rust Basel
-**Berichtsjahr:** [Jahr einfügen]
+**Berichtsjahr:** 2025
 ---
 ## Einnahmen
 | Position | CHF |

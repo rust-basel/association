@@ -48,9 +48,9 @@ Die Ausgaben verteilen sich wie folgt:
 | Kategorie | Betrag CHF |
 |-----------|------------|
 | Veranstaltungskosten | 3'200 |
-| Administrative Ausgaben | 120 |
+| Administrative Ausgaben | 152.48 |
 | Räumlichkeiten | 2'000 |
-| **Total** | **5'320** |
+| **Total** | **5'352.48** |
 
 ### 4.2 Sponsorings (In-Kind)
 
@@ -60,8 +60,8 @@ Die Sponsoring-Leistungen wurden wie folgt dokumentiert:
 |---------|----------|----------|
 | Endress+Hauser | Kosten Meetups | 2'400 |
 | letsboot | Räumlichkeiten | 2'000 |
-| persönlich | Kosten Admin | 120 |
-| **Total** | | **4'520** |
+| persönlich | Kosten Admin | 152.48 |
+| **Total** | | **5'352.48** |
 
 Die Sponsoring-Leistungen sind angemessen dokumentiert und entsprechen den tatsächlich erbrachten Leistungen.
 
@@ -75,11 +75,11 @@ Die Jahresrechnung ist mathematisch korrekt und vollständig. Alle Posten sind n
 
 Die Revision hat folgende Punkte festgestellt:
 
-✓ Die Rechnungslegung ist ordnungsgemäss und vollständig  
-✓ Alle Ausgaben sind dokumentiert und belegt  
-✓ Die Sponsoring-Leistungen sind korrekt verbucht  
-✓ Die mathematische Korrektheit ist gewährleistet  
-✓ Die Einhaltung der Vereinsstatuten ist gegeben  
+✓ Die Rechnungslegung ist ordnungsgemäss und vollständig
+✓ Alle Ausgaben sind dokumentiert und belegt
+✓ Die Sponsoring-Leistungen sind korrekt verbucht
+✓ Die mathematische Korrektheit ist gewährleistet
+✓ Die Einhaltung der Vereinsstatuten ist gegeben
 
 ---
 

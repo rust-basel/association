@@ -54,5 +54,14 @@
 - Ohne die großzügigen Sponsorings von Endress+Hauser und letsboot wäre eine Veranstaltungstätigkeit in diesem Umfang nicht möglich gewesen
 ---
 **Gültig ab:** 04.12.2025
-**Unterschrift Vorstand:** _______________
-**Unterschrift Revisionsstelle:** _______________
+**Unterschrift Vorstand:** ______________________________
+
+**Unterschrift Vorstand:** ______________________________
+
+**Unterschrift Vorstand:** ______________________________
+
+**Unterschrift Vorstand:** ______________________________
+
+**Unterschrift Vorstand:** ______________________________
+
+**Unterschrift Revisionsstelle:** ______________________________

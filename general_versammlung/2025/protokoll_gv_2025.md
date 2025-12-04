@@ -14,18 +14,20 @@
 ## Anwesenheit
 
 **Anwesende Mitglieder:** 
+Alle anwesend: Silen, ...
 
 
 **Entschuldigte Mitglieder:**
 
 
 **Stimmberechtigt:**
-
+Alle
 ---
 
 ## Traktanden
 
 ### 1. Genehmigung des Protokolls der letzten Vereinsversammlung
+Anstimmig angenohmen
 
 
 
@@ -38,10 +40,10 @@
 **Wichtige Punkte:**
 
 **Beschluss:**
-- [ ] Der Jahresbericht wird genehmigt
+- [x] Der Jahresbericht wird genehmigt
 - [ ] Der Jahresbericht wird abgelehnt
 
-**Abstimmungsresultat:** [Ja-Stimmen / Nein-Stimmen / Enthaltungen]
+**Abstimmungsresultat:** [Ja-Stimmen]
 
 
 #### 2.2 Jahresrechnung
@@ -53,10 +55,10 @@
 - Vereinsvermögen: 
 
 **Beschluss:**
-- [ ] Die Jahresrechnung wird genehmigt
+- [x] Die Jahresrechnung wird genehmigt
 - [ ] Die Jahresrechnung wird abgelehnt
 
-**Abstimmungsresultat:** 
+**Abstimmungsresultat:** Angenohmen
 
 #### 2.3 Jahresbudget
 **Präsentation durch:**  
@@ -64,10 +66,10 @@
 
 
 **Beschluss:**
-- [ ] Das Jahresbudget wird genehmigt
+- [x] Das Jahresbudget wird genehmigt
 - [ ] Das Jahresbudget wird mit folgenden Änderungen genehmigt: [Änderungen]
 
-**Abstimmungsresultat:** [Ja-Stimmen / Nein-Stimmen / Enthaltungen]
+**Abstimmungsresultat:** [Ja-Stimmen]
 
 
 
@@ -77,32 +79,23 @@
 
 
 **Beschluss:**
-- [ ] Der Bericht der Revisionsstelle wird zur Kenntnis genommen
+- [x] Der Bericht der Revisionsstelle wird zur Kenntnis genommen
 
 ---
 
 ### 3. Entlastung des Vorstands und der Revisionsstelle
 
 **Beschluss:**
-- [ ] Der Vorstand wird entlastet
+- [x] Der Vorstand wird entlastet
 - [ ] Die Revisionsstelle wird entlastet
 
-**Abstimmungsresultat:** [Ja-Stimmen / Nein-Stimmen / Enthaltungen]
+**Abstimmungsresultat:** [Ja-Stimmen]
 
 ---
 
 ### 4. Festsetzung der Mitgliederbeiträge und des Jahresbudgets
 
-**Aktueller Mitgliederbeitrag:** [Betrag]  
-
-**Diskussion:**
-
-
-**Beschluss:**
-- [ ] Der Mitgliederbeitrag bleibt unverändert bei _
-- [ ] Der Mitgliederbeitrag wird auf _  festgesetzt
-
-**Abstimmungsresultat:** [Ja-Stimmen / Nein-Stimmen / Enthaltungen]
+**Aktueller Mitgliederbeitrag:** 0.- CHF
 
 ---
 
@@ -111,6 +104,11 @@
 #### 5.1 Vorstand
 
 **Bisherige Vorstandsmitglieder:**
+- Präsident: Silen
+- Vizepräsident: ...
+- Sekretär: [Name] - [Abstimmungsresultat]
+- Kassier: [Name] - [Abstimmungsresultat]
+- Weitere Vorstandsmitglieder: [Namen] - [Abstimmungsresultate]
 
 
 **Rücktritte:**
@@ -119,6 +117,7 @@
 **Kandidaturen:**
 
 **Wahlergebnisse:**
+All gleiche
 - Präsident: [Name] - [Abstimmungsresultat]
 - Vizepräsident: [Name] - [Abstimmungsresultat]
 - Sekretär: [Name] - [Abstimmungsresultat]
@@ -128,13 +127,13 @@
 #### 5.2 Revisionsstelle
 
 **Bisherige Revisionsstelle:**
-- [Namen der Revisoren]
+Roland
 
 **Kandidaturen:**
-- [Liste der Kandidaturen]
+Rolang
 
 **Wahlergebnisse:**
-- [Namen der gewählten Revisoren] - [Abstimmungsresultate]
+Roland - einstimmig
 
 ---
 
@@ -159,10 +158,10 @@
 - [Diskussionspunkte]
 
 **Beschluss:**
-- [ ] Die Änderung des Vereinszwecks wird angenommen
-- [ ] Die Änderung des Vereinszwecks wird abgelehnt
+- [x] Die Änderung des Vereinszwecks wird angenommen
 
-**Abstimmungsresultat:** [Ja-Stimmen / Nein-Stimmen / Enthaltungen]
+
+**Abstimmungsresultat:** Ja-Stimmen
 
 #### 6.2 Einführung von Passivmitgliedschaften
 
@@ -181,25 +180,26 @@
 - [Diskussionspunkte]
 
 **Beschluss:**
-- [ ] Die Einführung von Passivmitgliedschaften wird angenommen
-- [ ] Die Einführung von Passivmitgliedschaften wird abgelehnt
+Die Einführung von Passivmitgliedschaften wird angenommen
 
-**Abstimmungsresultat:** [Ja-Stimmen / Nein-Stimmen / Enthaltungen]
+
+**Abstimmungsresultat:** Ja-Stimmen
 
 ---
 
 ## Varia
 
 **Weitere Diskussionspunkte:**
+Mitglieder einladung mit github issues
 
 
 ---
 
 ## Schluss der Versammlung
 
-**Ende der Versammlung:** [Uhrzeit]
+**Ende der Versammlung:** 20.00 
 
-**Nächste Generalversammlung:** [Voraussichtliches Datum]
+**Nächste Generalversammlung:** winter 2026
 
 ---
 

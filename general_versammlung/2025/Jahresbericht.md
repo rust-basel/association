@@ -100,6 +100,21 @@ Wir danken allen Mitgliedern, Referent:innen, Workshop-Leitern und Sponsoren fü
 
 ---
 
-**Gültig ab:** [Datum]  
-**Unterschrift Vorstand:** _______________  
-**Unterschrift Revisionsstelle:** _______________
+**Gültig ab:** 04.12.2025  
+**Unterschrift Vorstand:** 
+* __________________________
+
+* __________________________  
+
+* __________________________  
+
+* __________________________  
+
+* __________________________  
+
+
+
+**Unterschrift Revisionsstelle:** 
+
+
+___________________________

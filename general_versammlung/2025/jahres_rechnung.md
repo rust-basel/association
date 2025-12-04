@@ -53,6 +53,6 @@
 - Der Verein hat keine Einnahmen aus Mitgliederbeiträgen generiert
 - Ohne die großzügigen Sponsorings von Endress+Hauser und letsboot wäre eine Veranstaltungstätigkeit in diesem Umfang nicht möglich gewesen
 ---
-**Gültig ab:** [Datum]
+**Gültig ab:** 04.12.2025
 **Unterschrift Vorstand:** _______________
 **Unterschrift Revisionsstelle:** _______________

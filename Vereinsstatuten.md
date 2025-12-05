@@ -121,7 +121,7 @@ Die Organe des Vereins sind:
     
 ### Vorstand
 
-1. Der Vorstand besteht aus 3 Mitgliedern. Sie werden von der Vereinsversammlung für die Amtsdauer von einem Jahren gewählt. Wiederwahl ist zulässig. Eine Abberufung ist jederzeit und fristlos möglich.
+1. Der Vorstand besteht aus 5 Mitgliedern. Sie werden von der Vereinsversammlung für die Amtsdauer von einem Jahren gewählt. Wiederwahl ist zulässig. Eine Abberufung ist jederzeit und fristlos möglich.
 2. Die Vereinsversammlung wählt den Präsidenten. Im Übrigen konstituiert sich der Vorstand selbst und bestimmt die Zeichnungsberechtigung. Grundsätzlich gilt Kollektivunterschrift oder Einzelunterschrift. Der Vorstand besteht aus dem Präsidenten, Vizepräsidenten, Aktuar und Kassier. Ämterkumulation ist zulässig.
 3. Dem Vorstand obliegt die Leitung und Vertretung des Vereins. Er kann in allen Angelegenheiten Beschluss fassen, die nicht nach dem Gesetz oder den Statuten der Vereinsversammlung zugeteilt sind. Es sind dies insbesondere:
    a. Führung der laufenden Geschäfte und Organisation des Vereins;

@@ -22,7 +22,7 @@
    b) **Einführung von Passivmitgliedschaften**
    - Neue Kategorie der Passivmitgliedschaften wird eingeführt
    - Passivmitglieder erhalten Zugang zur Mitgliederliste (PR-freigabe)
-   - Ziel: Bessere Außenwirkung für Unternehmen und Behörden durch Kennzeichnung von über 10 Passivmitglieder
+   - Ziel: Bessere Außenwirkung für Unternehmen und Behörden durch Kennzeichnung von über 10 Passivmitgliedern
    - Tiefere Schwelle für Passivmitgliedschaften (Einladung zur GV und Teilnahme nicht erforderlich)
 
 ---

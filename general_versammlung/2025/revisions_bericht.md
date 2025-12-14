@@ -87,7 +87,7 @@ Die Revision hat folgende Punkte festgestellt:
 
 ### 6.1 Kassenbestand
 
-Der Kassenbestand per [Stichtag] beträgt CHF 0.
+Der Kassenbestand per 3. Dezember 2025 beträgt CHF 0.
 
 ### 6.2 Liquidiät
 
@@ -113,7 +113,7 @@ Die Revisionsstelle beantragt der Vereinsversammlung, die vorliegende Jahresrech
 
 ---
 
-**Ort und Datum:** _________________, [Datum]
+**Ort und Datum:** Basel, 4. Dezember 2025
 
 **Unterschrift Revisionsstelle:**
 

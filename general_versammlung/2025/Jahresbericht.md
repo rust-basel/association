@@ -81,7 +81,7 @@ Rust Basel ist eine Community-basierte Vereinigung, die sich der Programmierspra
 
 - Sponsoren finden
 - Kleinere und regelmässigere Meetups sind gewünscht
-- Workshops funktionieren gut, brauchen mehr Sponsoringals kleine Meetups.
+- Workshops funktionieren gut, brauchen mehr Sponsoring als kleine Meetups.
 
 ---
 

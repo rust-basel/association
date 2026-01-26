@@ -20,3 +20,6 @@ install_tools:
 
 slides:
   typst watch slides/main.typ slides/out/slides.pdf
+
+sponsor-deck:
+  typst watch slides/sponsor-deck.typ slides/out/sponsor-deck.pdf

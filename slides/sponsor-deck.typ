@@ -1,0 +1,214 @@
+#import "@preview/polylux:0.4.0": *
+#import "@preview/metropolis-polylux:0.1.0" as metropolis
+#import metropolis: new-section, focus
+
+#show: metropolis.setup.with(
+  text-font: "DejaVu Sans Mono",
+  math-font: "DejaVu Sans Mono",
+  code-font: "DejaVu Sans Mono",
+  text-size: 22pt,
+  footer: [Rust Basel],
+)
+
+#set page(paper: "presentation-16-9")
+#set text(size: 25pt, font: "DejaVu Sans Mono")
+
+#slide[
+    #show: focus
+    #toolbox.side-by-side[
+    Rust Basel \
+    #text(size: 0.5em)[
+    Sponsorship Presentation]
+    ][
+    #image("images/favicon.png")
+    ]
+]
+
+#slide[
+  = Who Are We?
+
+    - Non-profit Swiss association
+    - Founded in April 2025 - originating from the Rust-Basel Meetup (founded 2019)
+    - Dedicated to Rust and open-source
+]
+
+#slide[
+  = What Do We Do?
+
+    We organize meetups with talks and hands-on workshops for the Rust community every 6-8 weeks.
+
+    #v(0.3em)
+
+    #toolbox.side-by-side[
+      #image("images/talk.jpeg", width: 95%, height: 180pt)
+    ][
+      #image("images/workshop.jpeg", width: 95%, height: 180pt)
+    ]
+]
+
+#slide[
+  = What Are We Trying to Achieve?
+
+    Our mission is to build a thriving Rust community in Basel
+
+    Key objectives:
+    - Support developers at all skill levels
+    - A workshop/meetup every 6-8 weeks
+    - Share knowledge and best practices
+    - Involve sponsors and partners for Rust adoption, mostly local businesses and organizations (e.g. Endress+Hauser, Optravis, letsboot.ch)
+]
+
+#slide[
+  = Our Impact
+
+    #toolbox.side-by-side[
+    - Around 20 attendees at each event
+    - Developers reached and supported
+    - Open-source projects contributed to
+    - Community knowledge is shared
+    ][
+      #image("images/favicon.png")
+    ]
+]
+
+#slide[
+  = How Do We Finance Ourselves?
+
+    #list(
+      [Volunteer-driven (minimal overhead)],
+      [Sponsors, that provide rooms, snacks and drinks - and get recognition as sponsors],
+      [Costs of 340 CHF per event on average #link("https://github.com/rust-basel/association/blob/main/2025/budget/budget_2026.md#detailaufstellung-meetup-kosten")[#text(fill: blue)[(source)]],
+        where mosts costs derive from snacks and drinks]
+    )
+]
+
+#slide[
+  = Two Types of Sponsorships
+
+    #toolbox.side-by-side[
+      === Yearly Partnerships
+      - Continuous presence
+      - Access to all events
+      - Premium placement at events and online
+    ][
+      === Event Sponsoring
+      - Per-event basis
+      - Event-specific branding
+      - Individual event recognition
+      - Lower entry point
+    ]
+]
+
+#slide[
+  = Yearly Partnerships - Comparison
+
+    #set text(size: 16pt)
+    #table(
+      columns: (2fr, 1fr, 1fr),
+      [*Feature*],
+      [*Catering Partner*\
+      CHF 1,000],
+      [*Full Partner*\
+      CHF 2,000],
+
+      [Logo at events],
+      [✓],
+      [✓],
+
+      [Logo on website & GitHub],
+      [✓],
+      [✓],
+
+      [Product advertising],
+      [✓],
+      [✓],
+
+      [Hiring advertising],
+      [],
+      [✓],
+
+      [Social media advertising],
+      [],
+      [Upon agreement],
+    )
+
+    #v(0.5em)
+    #text(size: 0.85em, fill: gray)[
+      Both partnerships include continuous logo presence and naming as partner at events.
+    ]
+]
+
+#slide[
+  = Event Sponsoring - Flexible Options
+
+    #set text(size: 16pt)
+    #table(
+      columns: (1fr, 1fr, 1fr),
+      [*Bronze*\
+      CHF 300],
+      [*Silver*\
+      CHF 400],
+      [*Gold*\
+      CHF 500],
+
+      [Logo presence],
+      [Logo presence],
+      [Logo presence],
+
+      [Event clearly\
+      sponsored],
+      [Event clearly\
+      sponsored],
+      [Event clearly\
+      sponsored],
+
+      [Verbal & media\
+      mention],
+      [Verbal & media\
+      mention],
+      [Verbal & media\
+      mention],
+
+      [],
+      [Social media\
+      posts],
+      [Social media\
+      posts],
+
+      [],
+      [],
+      [Sole sponsor\
+      guarantee],
+    )
+]
+
+#slide[
+  = What will you get as Sponsor?
+
+    === Brand Recognition
+    - Logo placement at events and materials
+    - Recognition at community events
+    - Exposure to engaged developers!
+
+    === Networking & Engagement
+    - Speaking or presenting opportunities - you can promote yourself!
+    - Opportunities to recruit talent
+    - Direct access to engaged developer community
+]
+
+#slide[
+  = Let's Work Together
+
+    #align(center)[
+      #text(size: 1.5em, weight: "bold")[
+        Help us to foster the Rust community in Basel!
+      ]
+
+      \
+    ]
+
+    - Meetup: https://www.meetup.com/rust-basel/
+    - Discord: https://discord.com/invite/VYdAHH296c
+    - Website: rust-basel.ch
+    - GitHub: github.com/rust-basel
+]

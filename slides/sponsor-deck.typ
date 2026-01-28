@@ -88,15 +88,14 @@
 
     #toolbox.side-by-side[
       === Yearly Partnerships
-      - Continuous presence
-      - Access to all events
-      - Premium placement at events and online
+      - Year-round visibility across all events
+      - Premium placement online and at venues
+      - Perfect for long-term community presence
     ][
       === Event Sponsoring
-      - Per-event basis
-      - Event-specific branding
-      - Individual event recognition
-      - Lower entry point
+      - Sponsor individual events
+      - Flexible, lower commitment option
+      - Featured recognition at specific events
     ]
 ]
 

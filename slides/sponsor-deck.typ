@@ -51,11 +51,11 @@
 
     Our mission is to build a thriving Rust community in Basel
 
-    Key objectives:
+    Goals:
     - Support developers at all skill levels
     - A workshop/meetup every 6-8 weeks
     - Share knowledge and best practices
-    - Involve sponsors and partners for Rust adoption, mostly local businesses and organizations (e.g. Endress+Hauser, Optravis, letsboot.ch)
+    - Adoption of the Rust language and ecosystem
 ]
 
 #slide[

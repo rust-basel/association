@@ -183,17 +183,23 @@
 ]
 
 #slide[
-  = What will you get as Sponsor?
+  = Why Sponsor Rust Basel?
 
-    === Brand Recognition
-    - Prominent logo placement at all events and materials
-    - Named recognition as community partner
-    - Visibility to the growing Basel Rust developer community
+  === Reach & Influence
 
-    === Networking & Engagement
-    - Direct access to engaged, skilled developers
-    - Showcase Rust projects and recruiting opportunities to a captive audience
-    - Public acknowledgment as a key supporter of the local Rust ecosystem
+    - Connect with 350+ engaged Rust developers in Basel and beyond
+    - Showcase your company's commitment to open-source
+    - Build lasting relationships with technical talent
+]
+
+#slide[
+  = Why Sponsor Rust Basel?
+
+  === Support What Matters
+
+    - Enable knowledge sharing and skill development in the community
+    - Help foster the next generation of Rust practitioners
+    - Be part of a growing Swiss tech ecosystem
 ]
 
 #slide[

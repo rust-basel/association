@@ -27,9 +27,10 @@
 #slide[
   = Who Are We?
 
-    - Non-profit Swiss association
-    - Founded in April 2025 - originating from the Rust-Basel Meetup (founded 2019)
-    - Dedicated to Rust and open-source
+    - Swiss non-profit association dedicated to Rust and open-source
+    - Founded in April 2025, evolving from the Rust-Basel Meetup (active since 2019)
+    - Community of currently 350+ members across our Meetup Group #link("https://www.meetup.com/de-DE/rust-basel/")[#text(fill: blue)[(rust-basel)]]
+    - Fostering a local Rust community through events and knowledge sharing
 ]
 
 #slide[

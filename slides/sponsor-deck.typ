@@ -29,7 +29,7 @@
 
     - Swiss non-profit association dedicated to Rust and open-source
     - Founded in April 2025, evolving from the Rust-Basel Meetup (active since 2019)
-    - Community of currently 350+ members across our Meetup Group #link("https://www.meetup.com/de-DE/rust-basel/")[#text(fill: blue)[(rust-basel)]]
+    - Community with currently 350+ members across our Meetup Group #link("https://www.meetup.com/de-DE/rust-basel/")[#text(fill: blue)[(rust-basel)]]
     - Fostering a local Rust community through events and knowledge sharing
 ]
 
@@ -50,12 +50,12 @@
 #slide[
   = What Are We Trying to Achieve?
 
-    Our mission is to build a thriving Rust community in Basel
+    Our mission is to build a thriving Rust community in Basel.
 
     Goals:
     - Support developers at all skill levels
     - Share knowledge and best practices
-    - Adoption of the Rust language and ecosystem
+    - Promote adoption of the Rust language and ecosystem
     - Connect companies and organizations to the Rust community
 ]
 
@@ -79,7 +79,7 @@
       [Volunteer-driven organization with minimal overhead],
       [Sponsor support for venues, refreshments, and catering in exchange for recognition],
       [Average cost of 340 CHF per event #link("https://github.com/rust-basel/association/blob/main/2025/budget/budget_2026.md#detailaufstellung-meetup-kosten")[#text(fill: blue)[(source)]],
-        where most expenses come from food and beverages]
+        where most of the expenses come from food and beverages]
     )
 ]
 
@@ -207,7 +207,7 @@
 
     #align(center)[
       #text(size: 1.5em, weight: "bold")[
-        Help us to foster the Rust community in Basel!
+        Help us foster the Rust community in Basel!
       ]
 
       \

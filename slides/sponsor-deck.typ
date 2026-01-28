@@ -54,9 +54,9 @@
 
     Goals:
     - Support developers at all skill levels
-    - A workshop/meetup every 6-8 weeks
     - Share knowledge and best practices
     - Adoption of the Rust language and ecosystem
+    - Connect companies and organizations to the Rust community
 ]
 
 #slide[

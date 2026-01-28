@@ -76,10 +76,10 @@
   = How Do We Finance Ourselves?
 
     #list(
-      [Volunteer-driven (minimal overhead)],
-      [Sponsors, that provide rooms, snacks and drinks - and get recognition as sponsors],
-      [Costs of 340 CHF per event on average #link("https://github.com/rust-basel/association/blob/main/2025/budget/budget_2026.md#detailaufstellung-meetup-kosten")[#text(fill: blue)[(source)]],
-        where mosts costs derive from snacks and drinks]
+      [Volunteer-driven organization with minimal overhead],
+      [Sponsor support for venues, refreshments, and catering in exchange for recognition],
+      [Average cost of 340 CHF per event #link("https://github.com/rust-basel/association/blob/main/2025/budget/budget_2026.md#detailaufstellung-meetup-kosten")[#text(fill: blue)[(source)]],
+        where most expenses come from food and beverages]
     )
 ]
 

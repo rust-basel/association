@@ -186,14 +186,14 @@
   = What will you get as Sponsor?
 
     === Brand Recognition
-    - Logo placement at events and materials
-    - Recognition at community events
-    - Exposure to engaged developers!
+    - Prominent logo placement at all events and materials
+    - Named recognition as community partner
+    - Visibility to the growing Basel Rust developer community
 
     === Networking & Engagement
-    - Speaking or presenting opportunities - you can promote yourself!
-    - Opportunities to recruit talent
-    - Direct access to engaged developer community
+    - Direct access to engaged, skilled developers
+    - Showcase Rust projects and recruiting opportunities to a captive audience
+    - Public acknowledgment as a key supporter of the local Rust ecosystem
 ]
 
 #slide[

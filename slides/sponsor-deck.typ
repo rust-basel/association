@@ -7,7 +7,7 @@
   math-font: "DejaVu Sans Mono",
   code-font: "DejaVu Sans Mono",
   text-size: 22pt,
-  footer: [Rust Basel],
+  footer: [#box(image("images/favicon.png", height: 1.2em), baseline: 0.3em) Rust Basel],
 )
 
 #set page(paper: "presentation-16-9")
@@ -29,7 +29,7 @@
 
     - Swiss non-profit association dedicated to Rust and open-source
     - Founded in April 2025, evolving from the Rust-Basel Meetup (active since 2019)
-    - Community with currently 350+ members across our Meetup Group #link("https://www.meetup.com/de-DE/rust-basel/")[#text(fill: blue)[(rust-basel)]]
+    - Community with currently 370+ members across our Meetup Group #link("https://www.meetup.com/de-DE/rust-basel/")[#text(fill: blue)[(rust-basel)]]
     - Fostering a local Rust community through events and knowledge sharing
 ]
 
@@ -62,14 +62,11 @@
 #slide[
   = Our Impact
 
-    #toolbox.side-by-side[
-    - Around 20 attendees at each event
-    - Developers reached and supported
-    - Open-source projects contributed to
-    - Community knowledge is shared
-    ][
-      #image("images/favicon.png")
-    ]
+    - *370+* members in our Meetup community, growing since 2019
+    - *15-25* Rust engineers per event — a focused, senior audience
+    - *50+* active members on our Discord Server (Discussion, Ideas, etc.)
+    - Attendees from local startups, enterprises, and academia
+    - Talks and hands-on workshops every 6-8 weeks
 ]
 
 #slide[
@@ -81,6 +78,59 @@
       [Average cost of 340 CHF per event #link("https://github.com/rust-basel/association/blob/main/2025/budget/budget_2026.md#detailaufstellung-meetup-kosten")[#text(fill: blue)[(source)]],
         where most of the expenses come from food and beverages]
     )
+]
+
+#slide[
+  = Where Your Money Goes
+
+    100% volunteer-run — no salaries, minimal overhead. Every franc goes
+    straight into the community.
+
+    #v(0.4em)
+
+    #set text(size: 18pt)
+    #table(
+      columns: (2fr, 1fr),
+      align: (left, right),
+      [*Per event*], [*CHF*],
+      [Catering (food & drinks)], [240],
+      [Venue], [100],
+      [*Total per meetup*], [*340*],
+    )
+
+    #v(0.4em)
+    #text(size: 0.8em, fill: gray)[
+      ~4'080 CHF/year covers our core meetups; a balanced budget with
+      modest reserves keeps the association sustainable.
+      #link("https://github.com/rust-basel/association/blob/main/2025/budget/budget_2026.md")[#text(fill: blue)[(full budget)]]
+    ]
+]
+
+#slide[
+  = Who Has Supported Us
+
+    These companies have hosted our meetups or sponsored food and venues:
+
+    #v(0.5em)
+
+    #align(center)[
+      #grid(
+        columns: (1fr, 1fr),
+        column-gutter: 4em,
+        row-gutter: 1.8em,
+        align: center + horizon,
+        image("images/eh-logo.svg", height: 45pt, fit: "contain"),
+        image("images/logo_optravis_rgb.svg", height: 45pt, fit: "contain"),
+        image("images/letsboot-color-with-text.png", height: 65pt, fit: "contain"),
+        image("images/baseltech-logo.svg", height: 65pt, fit: "contain"),
+      )
+    ]
+
+    #v(0.6em)
+
+    #align(center)[#text(size: 0.85em, fill: gray)[
+      Thanks to Endress+Hauser, Optravis, letsboot, and BaselTech for helping us so far.
+    ]]
 ]
 
 #slide[
@@ -185,21 +235,17 @@
 #slide[
   = Why Sponsor Rust Basel?
 
-  === Reach & Influence
-
-    - Connect with 350+ engaged Rust developers in Basel and beyond
-    - Showcase your company's commitment to open-source
-    - Build lasting relationships with technical talent
-]
-
-#slide[
-  = Why Sponsor Rust Basel?
-
-  === Support What Matters
-
-    - Enable knowledge sharing and skill development in the community
-    - Help foster the next generation of Rust practitioners
-    - Be part of a growing Swiss tech ecosystem
+    #toolbox.side-by-side[
+      === Reach & Influence
+      - Connect with 370+ engaged Rust developers in Basel and beyond
+      - Showcase your commitment to open-source
+      - Build lasting relationships with technical talent
+    ][
+      === Support What Matters
+      - Enable knowledge sharing and skill development
+      - Help foster the next generation of Rust practitioners
+      - Be part of a growing Swiss tech ecosystem
+    ]
 ]
 
 #slide[

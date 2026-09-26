@@ -8,7 +8,7 @@
   math-font: "DejaVu Sans Mono",
   code-font: "DejaVu Sans Mono",
   text-size: 22pt,
-  footer: [Rust Meetup \#15 \@ letsboot],
+  footer: [Rust Meetup \#16 \@ ERNI],
 )
 
 #set page(paper: "presentation-16-9")
@@ -19,7 +19,7 @@
   #toolbox.side-by-side[
     Rust Basel \
     #text(size: 0.5em)[
-      Rust Meetup \#15 \@ letsboot]
+      Rust Meetup \#16 \@ ERNI]
   ][
     #image("images/favicon.png")
   ]
@@ -44,12 +44,12 @@
 ]
 
 #slide[
-  = Thanks to Sponsors
+  = Thanks to our Sponsors today
 
   #align(center + horizon)[
     #rect(fill: white, width: 100%, height: 100%)[
       #stack(
-        image("images/letsboot-color-with-text.png", width: 80%),
+        image("images/ERNI_logo.png", width: 80%),
       )
     ]
   ]
@@ -58,8 +58,9 @@
 #slide[
   = Today
 
-  - 18:15: Roland Brand: Full stack rust with trailbase & dioxus
-  - 19:00: Jan Ferdinand Sauer: Macros in Rust – Syntax Extensions and Metaprogramming
-  - 20:00: Some(🍕 && 🍻).map(|\_who_wants| relocate_to_vito())
-
+  - We start at about 18:15: 
+    - Alexander Walter: From Memory Safety to Business Value: building with Rust at ERNI
+    - Silen Locatelli: Rust - fast business logic
+    - Yasin Weber: Experiences from mixed Rust/C++ Codebases
+  - End approx 20:00 - with Apero
 ]

@@ -14,7 +14,7 @@
 ## Anwesenheit
 
 **Anwesende Mitglieder:** 
-Es waren 5 Personen anwesend: Silen Locatelli (Versammlungsleiter und Präsident), Roland Brand, Jan Cristina, Yasin Gündüz (Vizepräsident), Jonatas Oliveira.
+Es waren 5 Personen anwesend: Silen Locatelli (Versammlungsleiter und Präsident), Roland Brand, Jan Cristina, Yasin Weber (Vizepräsident), Jonatas Oliveira.
 
 **Entschuldigte Mitglieder:**
 Keine Mitglieder waren entschuldigt.
@@ -119,7 +119,7 @@ Der Vorstand schlug vor, den Mitgliederbeitrag weiterhin bei 0.- CHF zu belassen
 
 **Bisherige Vorstandsmitglieder:**
 - Präsident: Silen Locatelli
-- Vizepräsident: Yasin Gündüz
+- Vizepräsident: Yasin Weber
 - Sekretär: Jan Cristina
 - Kassier: Silen Locatelli
 - Weitere Vorstandsmitglieder: Roland Brand, Jonatas Oliveira
@@ -134,7 +134,7 @@ Alle bisherigen Vorstandsmitglieder kandidierten für eine Wiederwahl
 **Wahlergebnisse:**
 Alle bisherigen Vorstandsmitglieder wurden in ihren Ämtern bestätigt:
 - Präsident: Silen Locatelli - 5 Ja-Stimmen, 0 Nein-Stimmen, 0 Enthaltungen (einstimmig gewählt)
-- Vizepräsident: Yasin Gündüz - 5 Ja-Stimmen, 0 Nein-Stimmen, 0 Enthaltungen (einstimmig gewählt)
+- Vizepräsident: Yasin Weber - 5 Ja-Stimmen, 0 Nein-Stimmen, 0 Enthaltungen (einstimmig gewählt)
 - Sekretär: Jan Cristina - 5 Ja-Stimmen, 0 Nein-Stimmen, 0 Enthaltungen (einstimmig gewählt)
 - Kassier: Silen Locatelli - 5 Ja-Stimmen, 0 Nein-Stimmen, 0 Enthaltungen (einstimmig gewählt)
 - Weitere Vorstandsmitglieder: Roland Brand, Jonatas Oliveira - 5 Ja-Stimmen, 0 Nein-Stimmen, 0 Enthaltungen (einstimmig gewählt)

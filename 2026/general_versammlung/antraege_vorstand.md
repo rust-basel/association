@@ -41,7 +41,7 @@ Der Vorstand beantragt die Wiederwahl der bisherigen Mandate:
 | Funktion | Kandidat:in | Antrag |
 |---|---|---|
 | Präsident | Silen Locatelli | Wiederwahl |
-| Vizepräsident | Yasin Gündüz | Wiederwahl |
+| Vizepräsident | Yasin Weber | Wiederwahl |
 | Aktuar | Jan Cristina | Wiederwahl |
 | Kassier | Silen Locatelli | Wiederwahl (Ämterkumulation mit dem Präsidium, zulässig gemäss Statuten) |
 | Beisitzer | Roland Brand | Wiederwahl |
@@ -52,8 +52,6 @@ Revisionsstelle:
 - Silen Locatelli – Wiederwahl für das folgende Amtsjahr.
 
 **Amtsführung 2026:** Die Revisionsstelle für das Geschäftsjahr 2026 ist Silen Locatelli; er hat den Bericht der Revisionsstelle 2026 unterzeichnet. Das Protokoll der GV 2025 nennt noch Roland Brand als Revisor. Der Wechsel im Laufe des Jahres 2026 ist an der Versammlung zu protokollieren und die Wahl für das folgende Amtsjahr nachzuholen.
-
-**Namen prüfen:** Der Aktuar heisst Jan Cristina (bisher im Protokoll der GV 2025 «Jan Christen»; dort korrigiert). Offen bleibt der Vizepräsident: Mitgliederliste «Guenduez Yasin», Protokoll «Yasin Gündüz», Meetup-Auftritt «Yasin Weber». Für die Wahl ist der Name gemäss offizieller Mitgliedschaft massgebend und vor dem Versand der Einladung zu bereinigen.
 
 Anmerkung zur Doppelrolle: Die Revisionsstelle ist gleichzeitig Präsident und Kassier des Vereins und damit selbst Adressat der Décharge. Die Statuten verlangen lediglich, dass die Revisionsstelle nicht Mitglied des Vereins sein muss; ein Vorstandsmitglied ist nicht ausgeschlossen. Der Vorstand hält diese Doppelrolle im Protokoll der Versammlung ausdrücklich fest und legt dar, dass die Prüfung der Jahresrechnung 2026 durch Silen Locatelli in Kenntnis dieses Interessenkonflikts erfolgte. Die Vereinsversammlung entscheidet, ob sie die Décharge auf dieser Grundlage erteilen will.
 

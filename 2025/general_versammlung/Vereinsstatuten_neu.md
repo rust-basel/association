@@ -6,6 +6,7 @@
 >
 > - **Vorstandsgrösse:** Ziff. 1 und 2 unter "Vorstand" nennen neu 5 Mitglieder (bisher 3). Die Ämterliste umfasst Präsident, Vizepräsident, Aktuar, Kassier und einen Beisitzer. Grundlage: Der Verein hat 5 Vorstandsmitglieder, und die GV 2025 hat 5 Personen gewählt. Die Fassung 0.2 wurde an der GV vom 4. Dezember 2025 angenommen, aber nie unterzeichnet und nie publiziert; publiziert ist weiterhin Version 0.1.
 > - **Zirkularbeschlüsse (neu in 0.3):** Ziff. 6 unter "Vorstand" lässt Beschlüsse des Vorstands per E-Mail zu. Diese Bestimmung ist neu und nicht Bestandteil der an der GV 2025 angenommenen Fassung; sie wird der GV 2026 als Statutenänderung vorgelegt.
+> - **Termin der Generalversammlung (neu in 0.3):** Ziff. 2 und 3 unter "Vereinsversammlung" verlegen die ordentliche Versammlung von den letzten sechs Monaten des laufenden Jahres in die ersten vier Monate des Folgejahres. Damit liegt die Jahresrechnung bei der Einladung bereits abgeschlossen und geprüft vor. Die Antragsfrist verschiebt sich entsprechend vom 31. Januar auf den 31. Dezember. Ergänzt um eine Übergangsbestimmung: Die GV für das Geschäftsjahr 2027 findet im Frühjahr 2028 statt.
 > - **Offener Punkt:** Die Klausel "Inkrafttreten der Statuten" verweist unverändert auf die Gründerversammlung vom 8. April 2025. Vor der Signatur ist zu entscheiden, wie die beiden Beschlussfassungen (Gründung 8. April 2025, Änderung 4. Dezember 2025, Nachvollzug 17. Dezember 2026) im Inkrafttretens-Abschnitt abgebildet werden.
 > - **Offener Punkt:** Die Bestimmung zum Anwesenheitsquorum bei Statutenänderungen lässt offen, ob eine vertretene Person als anwesend gilt. Vor der Signatur klären und eindeutig formulieren.
 
@@ -117,8 +118,8 @@ Die Organe des Vereins sind:
    g. Änderung der Statuten;
    h. Auflösung des Vereins;
    i. Beschlussfassung über die Gegenstände, die der Vereinsversammlung durch das Gesetz oder die Statuten vorbehalten ist.
-2. Die ordentliche Vereinsversammlung findet innerhalb der letzen 6 Monate eines Kalenderjahres statt. Die Einladung erfolgt mindestens 30 Tage im Voraus schriftlich oder per E-Mail durch den Vorstand und enthält die Traktanden, die Anträge des Vorstandes sowie den Jahresbericht, die Jahresrechnung und den Bericht der Revisionsstelle. **Passivmitglieder werden über die Vereinsversammlung informiert, eine Teilnahme ist jedoch nicht erforderlich.**
-3. Anträge von Mitgliedern zuhanden der Vereinsversammlung sind schriftlich und spätestens bis 31. Januar eines Kalenderjahres an den Vorstand zu richten. Der Vorstand ergänzt die Traktandenliste um die fristgerecht eingegangenen Anträge.
+2. Die ordentliche Vereinsversammlung findet innerhalb der ersten vier Monate des auf das Geschäftsjahr folgenden Kalenderjahres statt. Die Einladung erfolgt mindestens 30 Tage im Voraus schriftlich oder per E-Mail durch den Vorstand und enthält die Traktanden, die Anträge des Vorstandes sowie den Jahresbericht, die Jahresrechnung und den Bericht der Revisionsstelle. **Passivmitglieder werden über die Vereinsversammlung informiert, eine Teilnahme ist jedoch nicht erforderlich.**
+3. Anträge von Mitgliedern zuhanden der Vereinsversammlung sind schriftlich und spätestens bis 31. Dezember des Geschäftsjahres an den Vorstand zu richten. Der Vorstand ergänzt die Traktandenliste um die fristgerecht eingegangenen Anträge.
 4. Eine ausserordentliche Vereinsversammlung wird auf Beschluss des Vorstandes, auf Antrag mit schriftlicher Begründung von mindestens 1/5 der stimmberechtigten Mitglieder oder auf Antrag der Revisionsstelle einberufen. Die Einladung erfolgt mindestens 10 Tage vor der Versammlung.
 5. Den Vorsitz der Vereinsversammlung führt der Präsident, bei dessen Verhinderung der Vizepräsident des Vorstandes oder ein anderer von der Vereinsversammlung gewählter Tagespräsident. Die Vereinsversammlung bezeichnet einen Protokollführer und 2 stimmberechtigte Mitglieder für die Ermittlung von Abstimmungs- und Wahlergebnissen.
 6. Über die Beschlüsse der Vereinsversammlung ist ein Protokoll zu führen, das vom Vorsitzenden und vom Protokollführer unterzeichnet wird. Die Mitglieder sind berechtigt, das Protokoll einzusehen.
@@ -172,6 +173,12 @@ Die Organe des Vereins sind:
 
 ### Liquidation
 4. Bei Auflösung des Vereins fällt das Vereinsvermögen an eine gemeinnützige Organisation mit ähnlichen Zielen. Die Vereinsversammlung bestimmt die begünstigte Organisation. **Das Vereinsvermögen darf nicht an Mitglieder zurückfallen.**
+
+## Übergangsbestimmungen
+
+1. Die Generalversammlung für das Geschäftsjahr 2026 findet noch nach der bisherigen Regelung statt (Versammlung vom 17. Dezember 2026).
+2. Die Generalversammlung für das Geschäftsjahr 2027 findet im Frühjahr 2028 statt.
+3. Die an der Generalversammlung vom 17. Dezember 2026 beschlossene Fassung gilt ab deren Annahme.
 
 ## Inkrafttreten der Statuten
 

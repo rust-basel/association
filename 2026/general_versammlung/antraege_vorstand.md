@@ -62,11 +62,15 @@ Der Vorstand beantragt:
 - den an der GV 2025 beschlossenen Statutentext in der bereinigten Fassung zu verabschieden;
 - darin die Vorstandsgrösse auf 5 Mitglieder festzulegen und die Ämterliste (Präsident, Vizepräsident, Aktuar, Kassier, Beisitzer) konsistent zu halten;
 - **neu** unter "Vorstand" eine Ziff. 6 einzufügen, welche Beschlüsse des Vorstands auf dem Zirkularweg, insbesondere per E-Mail, zulässt;
+- **neu** den Termin der ordentlichen Generalversammlung in die ersten vier Monate des Folgejahres zu verlegen und die Antragsfrist der Mitglieder auf den 31. Dezember des Geschäftsjahres zu verschieben;
+- eine Übergangsbestimmung aufzunehmen, wonach die Generalversammlung für das Geschäftsjahr 2027 im Frühjahr 2028 stattfindet;
 - den Vorstand zu ermächtigen, die Statuten zu unterzeichnen und zu publizieren.
 
 Begründung: Die Statuten Version 0.2 wurden an der GV 2025 angenommen, aber nie unterzeichnet und nie publiziert. Publiziert ist weiterhin Version 0.1. Zudem widerspricht die in 0.2 genannte Vorstandsgrösse von 3 Mitgliedern der tatsächlichen Zusammensetzung des Vorstands und der an der GV 2025 erfolgten Wahl.
 
 Die neue Ziff. 6 unter "Vorstand" (Zirkularbeschluss per E-Mail) ist eine echte Statutenänderung und nicht Bestandteil der 2025 angenommenen Fassung. Sie trägt dem Umstand Rechnung, dass der Vorstand seine Geschäfte weitgehend elektronisch führt. Die Bestimmung ist bewusst streng gefasst: Sie verlangt die Zustellung an alle Vorstandsmitglieder und die ausdrückliche Zustimmung aller; jedes Mitglied kann stattdessen eine mündliche Beratung an der nächsten Sitzung verlangen. Stillschweigen gilt nicht als Zustimmung.
+
+Der neue GV-Termin ist ebenfalls eine echte Statutenänderung. Bisher musste die Versammlung in den letzten sechs Monaten des laufenden Jahres stattfinden; die Jahresrechnung war zu diesem Zeitpunkt noch nicht abgeschlossen, weshalb mit einem Zwischenabschluss gearbeitet werden musste (für 2026: Stichtag 15. November, Geschäftsvorfälle bis Jahresende im Nachtragsgeschäft). Findet die Versammlung in den ersten vier Monaten des Folgejahres statt, liegt die Jahresrechnung bei der Einladung vollständig abgeschlossen und geprüft vor. Damit entfällt der Zwischenabschluss.
 
 Hinweis zum Quorum: Die Statuten verlangen für Statutenänderungen die Anwesenheit von drei Vierteln aller Aktivmitglieder, bei 5 Aktivmitgliedern also mindestens 4.
 

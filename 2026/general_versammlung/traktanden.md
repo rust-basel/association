@@ -32,6 +32,8 @@
    - Verabschiedung des an der GV 2025 beschlossenen Statutentexts in der bereinigten Fassung (inkl. der 2025 eingeführten Passivmitgliedschaften)
    - Bereinigung: Der Vorstand besteht aus 5 Mitgliedern (bisher: 3), Ämterliste konsistent
    - Neu: Beschlüsse des Vorstands auf dem Zirkularweg, insbesondere per E-Mail (neue Ziff. 6 unter "Vorstand")
+   - Neu: Die ordentliche Generalversammlung findet in den ersten vier Monaten des Folgejahres statt (bisher: letzte sechs Monate des laufenden Jahres); Antragsfrist der Mitglieder neu 31. Dezember
+   - Übergangsbestimmung: Die GV für das Geschäftsjahr 2027 findet im Frühjahr 2028 statt
    - Ermächtigung des Vorstands zur Unterzeichnung und Publikation der Statuten
 
 7. **Anträge des Vorstands und Varia**

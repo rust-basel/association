@@ -14,23 +14,25 @@ Die Revisionsstelle hat gemäss den Statuten des Vereins Rust Basel die Jahresre
 Geprüft wurden:
 
 - die Jahresrechnung 2026 mit Stichtag 15. November 2026 (Erfolgsrechnung, [TODO: Bilanz/Kassenbestand])
-- die Belege zu den Ausgaben ([TODO: Anzahl] Belege)
-- der Kassen- resp. Kontostand per 15. November 2026 (CHF 0.00 gemäss Jahresrechnung, durch Kontoauszug zu bestätigen)
-- die Ausweise über Sponsoringleistungen (ERNI, Optravis LLC, letsboot.ch), die private Zuwendung für Meetup #15 und die Veranstaltungskosten
+- der Kassen- resp. Kontostand per 15. November 2026 (CHF 0.00 gemäss Jahresrechnung)
+- die Angaben des Vorstands zu den Sponsoringleistungen (ERNI, Optravis LLC, letsboot.ch), zur privaten Zuwendung für Meetup #15 und zu den Veranstaltungskosten
 - die Übereinstimmung der Rechnungslegung mit den Statuten und dem Budget 2026
 
-Die Prüfung erfolgte stichprobenweise durch Einsicht in Belege und Ausweise sowie durch rechnerische Kontrolle. Es handelt sich nicht um eine Vollprüfung im Sinne einer ordentlichen Revision.
+**Einschränkung des Prüfungsumfangs:** Für das Berichtsjahr 2026 liegen keine Rechnungen, Quittungen oder Kontoauszüge vor. Die Zusagen der Sponsoren erfolgten mündlich. Eine Belegprüfung war daher nicht möglich. Die Prüfung beschränkte sich auf die rechnerische Kontrolle der Jahresrechnung, die Plausibilisierung der Beträge gegenüber dem Budget 2026 und die Angaben des Vorstands.
+
+Es handelt sich nicht um eine Vollprüfung im Sinne einer ordentlichen Revision.
 
 ## 3. Feststellungen
 
-- Die Jahresrechnung 2026 ist rechnerisch korrekt und vollständig. [TODO: bestätigen oder korrigieren]
-- Die Ausgaben sind durch Belege dokumentiert. [TODO: bestätigen oder korrigieren]
-- Der ausgewiesene Kassenbestand stimmt mit den Ausweisen überein. [TODO: bestätigen oder korrigieren]
+- Die Jahresrechnung 2026 ist rechnerisch korrekt und in sich konsistent. [TODO: bestätigen oder korrigieren]
+- Die ausgewiesenen Beträge stimmen mit den Ansätzen des Budgets 2026 und den Angaben des Vorstands überein. [TODO: bestätigen oder korrigieren]
+- **Es liegen keine Rechnungen und Belege vor; die Beträge konnten nicht belegmässig verifiziert werden.** [TODO: bestätigen oder korrigieren]
+- Der ausgewiesene Kassenbestand von CHF 0.00 ist plausibel, da der Verein über kein Vereinskonto mit Umsatz verfügt. [TODO: bestätigen oder korrigieren]
 - Die Sponsoringleistungen sind korrekt als In-Kind-Leistungen ausgewiesen. [TODO: bestätigen oder korrigieren]
 - Die private Zuwendung für Meetup #15 ist in gleicher Höhe als Ausgabe und als Sponsoring ausgewiesen. [TODO: bestätigen oder korrigieren]
 - Die Rechnungslegung entspricht den Statuten und dem Budget 2026. [TODO: bestätigen oder korrigieren]
 
-Besondere Feststellungen: [TODO: keine / Bemerkungen]
+Besondere Feststellungen: Für das Geschäftsjahr 2026 besteht keine Belegablage. Die Revisionsstelle empfiehlt dem Vorstand, ab 2027 sämtliche Sponsoringzusagen schriftlich einzuholen (eine E-Mail genügt) und zusammen mit den Ausgabenbelegen abzulegen. [TODO: bestätigen oder korrigieren]
 
 ## 4. Offenlegung Interessenkonflikt
 
@@ -42,6 +44,8 @@ Die Revisionsstelle beantragt,
 
 - die Jahresrechnung 2026 (Stichtag 15. November 2026) zu genehmigen;
 - dem Kassier und dem Vorstand für das Geschäftsjahr 2026 Décharge zu erteilen.
+
+Die Revisionsstelle weist darauf hin, dass die Décharge auf einer Jahresrechnung ohne Belegbasis beruht und die Beträge auf den Angaben des Vorstands beruhen.
 
 ---
 

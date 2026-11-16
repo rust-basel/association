@@ -77,9 +77,10 @@ Weitere Beilagen:
 
 ## Unterschriften an der Versammlung
 
-Folgende Dokumente werden an der Versammlung vom 17. Dezember 2026 unterzeichnet:
+Folgende Dokumente werden **an** der Versammlung vom 17. Dezember 2026 unterzeichnet:
 
 - Protokoll der Generalversammlung 2026 (Vorsitz und Protokollführer)
 - Protokoll der Generalversammlung 2025 (Vorsitz und Protokollführer; Nachholung der Unterschrift)
-- Statuten Version 0.3 (Vorstand)
-- Jahresbericht 2026 und Jahresrechnung 2026 (Vorstand und Revisionsstelle), falls nicht bereits vor der Versammlung unterzeichnet
+- Statuten Version 0.3 (Vorstand, **nach** der Annahme durch die Versammlung; die Anträge ermächtigen den Vorstand dazu)
+
+Jahresbericht 2026, Jahresrechnung 2026 und der Bericht der Revisionsstelle werden **vor dem Versand** unterzeichnet und liegen der Einladung unterzeichnet bei. Die Statuten verlangen für diese Dokumente keine Unterschrift; sie müssen der Einladung aber beiliegen (Ziff. 2 unter "Vereinsversammlung"). Eine Unterschrift erst an der Versammlung würde bedeuten, dass über Dokumente abgestimmt wird, die beim Versand keine Bestätigung trugen.

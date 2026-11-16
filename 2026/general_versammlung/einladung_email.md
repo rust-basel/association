@@ -77,7 +77,7 @@ Der Vorstand des Vereins Rust Basel
 - [ ] Jahresbudget 2027 geprüft
 - [ ] Protokoll der Generalversammlung 2025 liegt bei; die Unterschrift von Vorsitz und Protokollführer erfolgt an der Versammlung
 - [ ] Statuten Version 0.3 bereinigt (5 Vorstandsmitglieder, Zirkularbeschluss per E-Mail, GV-Termin im Folgejahr) und als Version 0.3 gekennzeichnet
-- [ ] Einberufung durch Vorstandsbeschluss protokolliert
+- [ ] Einberufung durch Vorstandsbeschluss protokolliert (`2026/board_meetings/vorstandsbeschluss_gv_2026.md`); Zeichnungsberechtigung darin festgelegt
 - [ ] Alle Beilagen als PDF beigelegt
 - [ ] Versand bis spätestens 17. November 2026
 

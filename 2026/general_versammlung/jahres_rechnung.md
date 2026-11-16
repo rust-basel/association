@@ -108,14 +108,14 @@ Gegenüberstellung: Total Ausgaben 1'020.00 = Gesamtsponsoring 1'020.00.
 **Unterschrift Kassier:**
 
 ______________________________
+Silen Locatelli
 
-**Unterschrift Vorstand:**
+**Unterschrift Vizepräsident:**
 
-- ______________________________
-- ______________________________
-- ______________________________
-- ______________________________
+______________________________
+Yasin Weber
 
 **Unterschrift Revisionsstelle:**
 
 ______________________________
+Silen Locatelli

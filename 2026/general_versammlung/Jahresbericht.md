@@ -133,14 +133,12 @@ Wir danken allen Mitgliedern, Referent:innen und Sponsoren für ihre Unterstütz
 
 **Gültig ab:** 17.12.2026
 
-**Unterschrift Vorstand:**
-
-- __________________________
-- __________________________
-- __________________________
-- __________________________
-- __________________________
-
-**Unterschrift Revisionsstelle:**
+**Unterschrift Präsident:**
 
 ___________________________
+Silen Locatelli
+
+**Unterschrift Vizepräsident:**
+
+___________________________
+Yasin Weber

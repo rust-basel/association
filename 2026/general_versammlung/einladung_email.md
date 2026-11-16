@@ -75,7 +75,7 @@ Der Vorstand des Vereins Rust Basel
 - [ ] Jahresrechnung 2026 erstellt, Stichtag 15. November 2026, mit Revisionsstelle abgestimmt
 - [ ] Bericht der Revisionsstelle 2026 unterzeichnet und datiert (Silen Locatelli, mit Offenlegung der Doppelrolle als Präsident und Kassier)
 - [ ] Jahresbudget 2027 fertig, alle `[TODO]` ausgefüllt
-- [ ] Protokoll der Generalversammlung 2025 unterzeichnet (zwei Unterschriften: Vorsitz und Protokollführer)
+- [ ] Protokoll der Generalversammlung 2025 liegt bei; die Unterschrift von Vorsitz und Protokollführer erfolgt an der Versammlung
 - [ ] Statuten Version 0.3 bereinigt (5 Vorstandsmitglieder, Zirkularbeschluss per E-Mail) und als Version 0.3 gekennzeichnet
 - [ ] Einberufung durch Vorstandsbeschluss protokolliert
 - [ ] Alle Beilagen als PDF beigelegt
@@ -88,4 +88,4 @@ Der Vorstand des Vereins Rust Basel
 1. **Jahresrechnung:** Stichtag ist per Vorstandsbeschluss auf den 15. November 2026 festgelegt, damit die geprüfte Rechnung am Versandtag (17. November 2026) vollständig vorliegt. Das Nachtragsgeschäft 16. November bis 31. Dezember 2026 wird an der Versammlung rapportiert und in der Jahresrechnung 2027 geführt. Im Protokoll entsprechend festhalten.
 2. **Revisionsstelle:** Silen Locatelli ist Revisor und gleichzeitig Präsident und Kassier, also Adressat der Décharge. Die Statuten schliessen das nicht aus; die Doppelrolle wird im Revisionsbericht und im Protokoll offengelegt (siehe `antraege_vorstand.md`).
 3. **Passivmitglieder:** Die Kategorie existiert, in `members/list.md` sind aber keine Passivmitglieder erfasst. Falls vorhanden, Empfängerliste ergänzen.
-4. **Namen:** Die Mitgliederliste nennt «Cristina Jan» und «Guenduez Yasin», das Protokoll der GV 2025 «Jan Christen» und «Yasin Gündüz», die Meetup-Auftritte «Jan Cristina» und «Yasin Weber». Vor dem Versand bereinigen, damit die Einladung an die richtigen Personen adressiert ist.
+4. **Namen:** Der Protokollführer heisst Jan Cristina (im Protokoll der GV 2025 korrigiert). Offen bleibt Yasin: Mitgliederliste «Guenduez Yasin», Protokoll «Yasin Gündüz», Meetup «Yasin Weber». Vor dem Versand bereinigen, damit die Einladung an die richtigen Personen adressiert ist.

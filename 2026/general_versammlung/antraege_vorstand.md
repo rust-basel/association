@@ -51,7 +51,7 @@ Revisionsstelle:
 
 - Silen Locatelli – Wahl.
 
-**Namen prüfen:** Die Mitgliederliste nennt «Cristina Jan» und «Guenduez Yasin», das Protokoll der GV 2025 «Jan Christen» und «Yasin Gündüz», die Meetup-Auftritte «Jan Cristina» und «Yasin Weber». Für die Wahl sind die Namen gemäss offizieller Mitgliedschaft massgebend und vor dem Versand der Einladung zu bereinigen; das Protokoll der GV 2025 ist entsprechend zu korrigieren oder an der Versammlung zu berichtigen.
+**Namen prüfen:** Der Aktuar heisst Jan Cristina (bisher im Protokoll der GV 2025 «Jan Christen»; dort korrigiert). Offen bleibt der Vizepräsident: Mitgliederliste «Guenduez Yasin», Protokoll «Yasin Gündüz», Meetup-Auftritt «Yasin Weber». Für die Wahl ist der Name gemäss offizieller Mitgliedschaft massgebend und vor dem Versand der Einladung zu bereinigen.
 
 Anmerkung zur Doppelrolle: Die Revisionsstelle ist gleichzeitig Präsident und Kassier des Vereins und damit selbst Adressat der Décharge. Die Statuten verlangen lediglich, dass die Revisionsstelle nicht Mitglied des Vereins sein muss; ein Vorstandsmitglied ist nicht ausgeschlossen. Der Vorstand hält diese Doppelrolle im Protokoll der Versammlung ausdrücklich fest und legt dar, dass die Prüfung der Jahresrechnung 2026 durch Silen Locatelli in Kenntnis dieses Interessenkonflikts erfolgte. Die Vereinsversammlung entscheidet, ob sie die Décharge auf dieser Grundlage erteilen will.
 

@@ -79,5 +79,6 @@ Weitere Beilagen:
 Folgende Dokumente werden an der Versammlung vom 17. Dezember 2026 unterzeichnet:
 
 - Protokoll der Generalversammlung 2026 (Vorsitz und Protokollführer)
+- Protokoll der Generalversammlung 2025 (Vorsitz und Protokollführer; Nachholung der Unterschrift)
 - Statuten Version 0.3 (Vorstand)
 - Jahresbericht 2026 und Jahresrechnung 2026 (Vorstand und Revisionsstelle), falls nicht bereits vor der Versammlung unterzeichnet

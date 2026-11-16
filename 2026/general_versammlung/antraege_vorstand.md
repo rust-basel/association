@@ -74,7 +74,7 @@ Die neue Ziff. 6 unter "Vorstand" (Zirkularbeschluss per E-Mail) ist eine echte 
 
 Der neue GV-Termin ist ebenfalls eine echte Statutenänderung. Bisher musste die Versammlung in den letzten sechs Monaten des laufenden Jahres stattfinden; die Jahresrechnung war zu diesem Zeitpunkt noch nicht abgeschlossen, weshalb mit einem Zwischenabschluss gearbeitet werden musste (für 2026: Stichtag 15. November, Geschäftsvorfälle bis Jahresende im Nachtragsgeschäft). Findet die Versammlung in den ersten vier Monaten des Folgejahres statt, liegt die Jahresrechnung bei der Einladung vollständig abgeschlossen und geprüft vor. Damit entfällt der Zwischenabschluss.
 
-Hinweis zum Quorum: Die Statuten verlangen für Statutenänderungen die Anwesenheit von drei Vierteln aller Aktivmitglieder, bei 5 Aktivmitgliedern also mindestens 4.
+Hinweis zum Quorum: Die Statuten verlangen für Statutenänderungen die Anwesenheit von drei Vierteln aller Aktivmitglieder, bei 5 Aktivmitgliedern also mindestens 4. Ein vertretenes Aktivmitglied gilt als anwesend (Ziff. 8 unter "Vereinsversammlung").
 
 ## Zu Traktandum 7 – Varia
 

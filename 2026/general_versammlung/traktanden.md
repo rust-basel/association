@@ -32,6 +32,7 @@
    - Verabschiedung des an der GV 2025 beschlossenen Statutentexts in der bereinigten Fassung (inkl. der 2025 eingeführten Passivmitgliedschaften)
    - Bereinigung: Der Vorstand besteht aus 5 Mitgliedern (bisher: 3), Ämterliste konsistent
    - Neu: Beschlüsse des Vorstands auf dem Zirkularweg, insbesondere per E-Mail (neue Ziff. 6 unter "Vorstand")
+   - Neu: Ein vertretenes Aktivmitglied gilt als anwesend (Ziff. 8 unter "Vereinsversammlung")
    - Neu: Die ordentliche Generalversammlung findet in den ersten vier Monaten des Folgejahres statt (bisher: letzte sechs Monate des laufenden Jahres); Antragsfrist der Mitglieder neu 31. Dezember
    - Übergangsbestimmung: Die GV für das Geschäftsjahr 2027 findet im Frühjahr 2028 statt
    - Ermächtigung des Vorstands zur Unterzeichnung und Publikation der Statuten
@@ -69,7 +70,7 @@ Weitere Beilagen:
 
 - **Stimmberechtigt:** Aktivmitglieder. Passivmitglieder werden informiert, haben kein Stimmrecht und keine Anwesenheitspflicht.
 - **Vertretung:** Jedes Aktivmitglied kann sich mittels schriftlicher Vollmacht durch eine Drittperson vertreten lassen. Ein Formular wird nicht abgegeben; eine kurze schriftliche Erklärung an den Vorstand genügt.
-- **Quorum:** Für die Verabschiedung der Statuten (Traktandum 6) ist die Anwesenheit von drei Vierteln aller Aktivmitglieder erforderlich. Wird das Quorum nicht erreicht, ist innerhalb von 8 Wochen eine zweite Versammlung mit denselben Traktanden einzuberufen.
+- **Quorum:** Für die Verabschiedung der Statuten (Traktandum 6) ist die Anwesenheit von drei Vierteln aller Aktivmitglieder erforderlich, bei 5 Aktivmitgliedern also mindestens 4. **Ein durch schriftliche Vollmacht vertretenes Aktivmitglied zählt als anwesend.** Wird das Quorum nicht erreicht, ist innerhalb von 8 Wochen eine zweite Versammlung mit denselben Traktanden einzuberufen.
 - **Einladungsfrist:** 30 Tage; Einladung durch den Vorstand.
 
 ---

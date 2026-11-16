@@ -7,8 +7,8 @@
 > - **Vorstandsgrösse:** Ziff. 1 und 2 unter "Vorstand" nennen neu 5 Mitglieder (bisher 3). Die Ämterliste umfasst Präsident, Vizepräsident, Aktuar, Kassier und einen oder mehrere Beisitzer; der Verein hat derzeit zwei Beisitzer (Roland Brand, Jônatas Oliveira), während Silen Locatelli Präsidium und Kassier in Personalunion führt. Grundlage: Der Verein hat 5 Vorstandsmitglieder, und die GV 2025 hat 5 Personen gewählt. Die Fassung 0.2 wurde an der GV vom 4. Dezember 2025 angenommen, aber nie unterzeichnet und nie publiziert; publiziert ist weiterhin Version 0.1.
 > - **Zirkularbeschlüsse (neu in 0.3):** Ziff. 6 unter "Vorstand" lässt Beschlüsse des Vorstands per E-Mail zu. Diese Bestimmung ist neu und nicht Bestandteil der an der GV 2025 angenommenen Fassung; sie wird der GV 2026 als Statutenänderung vorgelegt.
 > - **Termin der Generalversammlung (neu in 0.3):** Ziff. 2 und 3 unter "Vereinsversammlung" verlegen die ordentliche Versammlung von den letzten sechs Monaten des laufenden Jahres in die ersten vier Monate des Folgejahres. Damit liegt die Jahresrechnung bei der Einladung bereits abgeschlossen und geprüft vor. Die Antragsfrist verschiebt sich entsprechend vom 31. Januar auf den 31. Dezember. Ergänzt um eine Übergangsbestimmung: Die GV für das Geschäftsjahr 2027 findet im Frühjahr 2028 statt.
+> - **Vertretung (neu in 0.3):** Ziff. 8 unter "Vereinsversammlung" hält fest, dass ein vertretenes Aktivmitglied als anwesend gilt. Damit zählt eine schriftliche Vollmacht auch für die Anwesenheitsquoren bei Statutenänderungen und Auflösung.
 > - **Offener Punkt:** Die Klausel "Inkrafttreten der Statuten" verweist unverändert auf die Gründerversammlung vom 8. April 2025. Vor der Signatur ist zu entscheiden, wie die beiden Beschlussfassungen (Gründung 8. April 2025, Änderung 4. Dezember 2025, Nachvollzug 17. Dezember 2026) im Inkrafttretens-Abschnitt abgebildet werden.
-> - **Offener Punkt:** Die Bestimmung zum Anwesenheitsquorum bei Statutenänderungen lässt offen, ob eine vertretene Person als anwesend gilt. Vor der Signatur klären und eindeutig formulieren.
 
 ## Name und Sitz
 
@@ -124,7 +124,7 @@ Die Organe des Vereins sind:
 5. Den Vorsitz der Vereinsversammlung führt der Präsident, bei dessen Verhinderung der Vizepräsident des Vorstandes oder ein anderer von der Vereinsversammlung gewählter Tagespräsident. Die Vereinsversammlung bezeichnet einen Protokollführer und 2 stimmberechtigte Mitglieder für die Ermittlung von Abstimmungs- und Wahlergebnissen.
 6. Über die Beschlüsse der Vereinsversammlung ist ein Protokoll zu führen, das vom Vorsitzenden und vom Protokollführer unterzeichnet wird. Die Mitglieder sind berechtigt, das Protokoll einzusehen.
 7. Abstimmungen und Wahlen finden offen oder auf Beschluss der Vereinsversammlung schriftlich statt.
-8. Jedes **Aktivmitglied** hat eine Stimme und kann sich mittels schriftlicher Vollmacht durch eine Drittperson vertreten lassen. **Passivmitglieder haben kein Stimmrecht.**
+8. Jedes **Aktivmitglied** hat eine Stimme und kann sich mittels schriftlicher Vollmacht durch eine Drittperson vertreten lassen. **Ein vertretenes Aktivmitglied gilt als anwesend.** **Passivmitglieder haben kein Stimmrecht.**
 9. Die Vereinsversammlung fasst ihre Beschlüsse und vollzieht ihre Wahlen mit der absoluten Mehrheit der anwesenden **stimmberechtigten Mitglieder** (Aktivmitglieder), sofern nicht eine zwingende Vorschrift des Gesetzes oder die Statuten etwas anderes bestimmen. Bei Stimmengleichheit hat der Vorsitzende den Stichentscheid.
     
 ### Vorstand

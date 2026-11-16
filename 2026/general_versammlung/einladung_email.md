@@ -50,7 +50,7 @@ Die vollständige Traktandenliste sowie die Anträge des Vorstands finden Sie in
 
 - **Stimmberechtigt sind die Aktivmitglieder.** Passivmitglieder sind zur Teilnahme nicht verpflichtet und haben kein Stimmrecht.
 - **Vertretung:** Sie können sich durch eine Drittperson vertreten lassen. Eine kurze schriftliche Erklärung an den Vorstand genügt; ein Formular wird nicht abgegeben.
-- **Statutenänderung (Traktandum 6):** Für die Verabschiedung der Statuten ist die Anwesenheit von drei Vierteln aller Aktivmitglieder erforderlich. Bitte prüfen Sie, ob Sie an der Versammlung teilnehmen oder eine Vollmacht erteilen können.
+- **Statutenänderung (Traktandum 6):** Für die Verabschiedung der Statuten ist die Anwesenheit von drei Vierteln aller Aktivmitglieder erforderlich, bei uns also mindestens 4 von 5. Ein durch schriftliche Vollmacht vertretenes Aktivmitglied zählt als anwesend. Falls Sie verhindert sind, genügt eine kurze schriftliche Erklärung an den Vorstand, damit die Versammlung beschlussfähig bleibt.
 - **Anträge:** Die Frist für Anträge von Mitgliedern an die Generalversammlung ist gemäss Statuten am 31. Januar 2026 abgelaufen. Es sind keine fristgerechten Anträge eingegangen; die Traktandenliste ist entsprechend geschlossen. Spontane Wortmeldungen unter «Varia» bleiben selbstverständlich möglich.
 - **Stichtag der Jahresrechnung:** Die Jahresrechnung 2026 schliesst per 15. November 2026 und liegt dieser Einladung vollständig geprüft bei. Die Geschäftsvorfälle bis zum 31. Dezember 2026 werden an der Versammlung als Nachtrag rapportiert und in der Jahresrechnung 2027 geführt.
 

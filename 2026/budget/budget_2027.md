@@ -41,5 +41,5 @@
 ## Planungshinweise
 
 - **Abhängigkeit von Sponsoring:** Der Verein erhebt keine Mitgliederbeiträge; die Tätigkeit ist vollständig von Sponsorings abhängig (vgl. Empfehlung der Revisionsstelle 2025, ein nachhaltiges Finanzierungsmodell aufzubauen).
-- **Rücklagen:** Der Kassenbestand per 15. November 2026 beträgt [TODO] CHF.
+- **Rücklagen:** Der Kassenbestand per 15. November 2026 beträgt CHF 0.00 (gemäss Jahresrechnung 2026).
 - **Offene Zusage:** [TODO: schriftliche Sponsoring-Vereinbarungen für 2027 – Empfehlung der Revisionsstelle 2025]

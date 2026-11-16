@@ -80,7 +80,7 @@ Die vier Meetups 2026 sind in Ziffer 2 tabellarisch aufgeführt. [TODO: falls ei
 ## 6. Finanzen
 
 - Siehe Jahresrechnung 2026, Stichtag 15. November 2026
-- Kassenbestand per 15. November 2026: [TODO] CHF
+- Kassenbestand per 15. November 2026: 0.00 CHF (gemäss Jahresrechnung 2026; durch Kontoauszug zu bestätigen)
 - Die Tätigkeit ist vollständig sponsoringfinanziert; es werden keine Mitgliederbeiträge erhoben
 
 ---
@@ -114,7 +114,7 @@ Die vier Meetups 2026 sind in Ziffer 2 tabellarisch aufgeführt. [TODO: falls ei
 
 ## 10. Dank
 
-Wir danken allen Mitgliedern, Referent:innen, Workshop-Leitern und Sponsoren für ihre Unterstützung und ihr Engagement. Ein besonderer Dank gilt Endress+Hauser Digital Solutions, letsboot.ch und MDPI.
+Wir danken allen Mitgliedern, Referent:innen und Sponsoren für ihre Unterstützung und ihr Engagement. Ein besonderer Dank gilt ERNI, Optravis LLC und letsboot.ch für die Ermöglichung der Meetups sowie den Vorstandsmitgliedern, die Kosten des Vereins privat getragen haben.
 
 ---
 

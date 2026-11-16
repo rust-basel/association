@@ -22,6 +22,8 @@ Der Vorstand beantragt:
 
 Der Vorstand beantragt, dem Vorstand und der Revisionsstelle für das Geschäftsjahr 2026 Décharge zu erteilen.
 
+Offenlegung vor der Abstimmung: Die Revisionsstelle ist gleichzeitig Präsident und Kassier und damit selbst Adressat der Décharge. Der Bericht der Revisionsstelle hält dies in Ziffer 4 fest. Die Versammlung beschliesst in Kenntnis dieser Doppelrolle; das Protokoll hält die Offenlegung vor der Abstimmung fest.
+
 ## Zu Traktandum 4 – Mitgliederbeiträge und Jahresbudget 2027
 
 Der Vorstand beantragt:
@@ -47,21 +49,26 @@ Der Vorstand beantragt die Wiederwahl der bisherigen Mandate:
 
 Revisionsstelle:
 
-- Roland Brand – Wiederwahl.
+- Silen Locatelli – Wahl.
 
 **Namen prüfen:** Die Mitgliederliste nennt «Cristina Jan» und «Guenduez Yasin», das Protokoll der GV 2025 «Jan Christen» und «Yasin Gündüz», die Meetup-Auftritte «Jan Cristina» und «Yasin Weber». Für die Wahl sind die Namen gemäss offizieller Mitgliedschaft massgebend und vor dem Versand der Einladung zu bereinigen; das Protokoll der GV 2025 ist entsprechend zu korrigieren oder an der Versammlung zu berichtigen.
 
-Anmerkung zur Doppelrolle: Die Revisionsstelle ist gleichzeitig Mitglied des Vorstands. Die Statuten verlangen lediglich, dass die Revisionsstelle nicht Mitglied des Vereins sein muss; ein Vorstandsmitglied ist nicht ausgeschlossen. Der Vorstand hält diese Doppelrolle im Protokoll der Versammlung ausdrücklich fest und legt dar, dass die Prüfung der Jahresrechnung 2026 durch Roland Brand in Kenntnis dieses Interessenkonflikts erfolgte. Der Entscheid über eine personell unabhängige Revisionsstelle bei einer künftigen Wahl bleibt vorbehalten.
+Anmerkung zur Doppelrolle: Die Revisionsstelle ist gleichzeitig Präsident und Kassier des Vereins und damit selbst Adressat der Décharge. Die Statuten verlangen lediglich, dass die Revisionsstelle nicht Mitglied des Vereins sein muss; ein Vorstandsmitglied ist nicht ausgeschlossen. Der Vorstand hält diese Doppelrolle im Protokoll der Versammlung ausdrücklich fest und legt dar, dass die Prüfung der Jahresrechnung 2026 durch Silen Locatelli in Kenntnis dieses Interessenkonflikts erfolgte. Die Vereinsversammlung entscheidet, ob sie die Décharge auf dieser Grundlage erteilen will.
 
-## Zu Traktandum 6 – Nachvollzug der Statutenänderung (Version 0.2)
+## Zu Traktandum 6 – Statutenrevision (Version 0.3)
 
 Der Vorstand beantragt:
 
-- den an der GV 2025 beschlossenen Statutentext in der bereinigten Fassung 0.2 zu verabschieden;
+- den an der GV 2025 beschlossenen Statutentext in der bereinigten Fassung zu verabschieden;
 - darin die Vorstandsgrösse auf 5 Mitglieder festzulegen und die Ämterliste (Präsident, Vizepräsident, Aktuar, Kassier, Beisitzer) konsistent zu halten;
+- **neu** unter "Vorstand" eine Ziff. 6 einzufügen, welche Beschlüsse des Vorstands auf dem Zirkularweg, insbesondere per E-Mail, zulässt;
 - den Vorstand zu ermächtigen, die Statuten zu unterzeichnen und zu publizieren.
 
 Begründung: Die Statuten Version 0.2 wurden an der GV 2025 angenommen, aber nie unterzeichnet und nie publiziert. Publiziert ist weiterhin Version 0.1. Zudem widerspricht die in 0.2 genannte Vorstandsgrösse von 3 Mitgliedern der tatsächlichen Zusammensetzung des Vorstands und der an der GV 2025 erfolgten Wahl.
+
+Die neue Ziff. 6 unter "Vorstand" (Zirkularbeschluss per E-Mail) ist eine echte Statutenänderung und nicht Bestandteil der 2025 angenommenen Fassung. Sie trägt dem Umstand Rechnung, dass der Vorstand seine Geschäfte weitgehend elektronisch führt. Die Bestimmung ist bewusst streng gefasst: Sie verlangt die Zustellung an alle Vorstandsmitglieder und die ausdrückliche Zustimmung aller; jedes Mitglied kann stattdessen eine mündliche Beratung an der nächsten Sitzung verlangen. Stillschweigen gilt nicht als Zustimmung.
+
+Hinweis zum Quorum: Die Statuten verlangen für Statutenänderungen die Anwesenheit von drei Vierteln aller Aktivmitglieder, bei 5 Aktivmitgliedern also mindestens 4.
 
 ## Zu Traktandum 7 – Varia
 

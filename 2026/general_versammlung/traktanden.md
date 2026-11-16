@@ -21,15 +21,17 @@
    Hinweis: Der Stichtag der Jahresrechnung liegt bewusst vor dem Versanddatum der Einladung, damit die geprüfte Rechnung dieser Einladung vollständig beiliegen kann. Die Geschäftsvorfälle vom 16. November bis 31. Dezember 2026 werden an der Versammlung als Nachtrag rapportiert und gehen in die Jahresrechnung 2027 ein.
 
 3. **Entlastung des Vorstands und der Revisionsstelle**
+   - Hinweis: Die Revisionsstelle ist gleichzeitig Präsident und Kassier des Vereins. Der Interessenkonflikt wird vor der Abstimmung offengelegt (vgl. Ziffer 4 des Berichts der Revisionsstelle).
 
 4. **Festsetzung der Mitgliederbeiträge und des Jahresbudgets 2027**
 
 5. **Wahl und Abberufung des Vorstands und der Revisionsstelle**
    - Amtsdauer ein Jahr; alle bisherigen Mandate stehen zur Wiederwahl
 
-6. **Nachvollzug der Statutenänderung (Version 0.2)**
-   - Verabschiedung des an der GV 2025 beschlossenen Statutentexts in der bereinigten Fassung 0.2
+6. **Statutenrevision (Version 0.3)**
+   - Verabschiedung des an der GV 2025 beschlossenen Statutentexts in der bereinigten Fassung (inkl. der 2025 eingeführten Passivmitgliedschaften)
    - Bereinigung: Der Vorstand besteht aus 5 Mitgliedern (bisher: 3), Ämterliste konsistent
+   - Neu: Beschlüsse des Vorstands auf dem Zirkularweg, insbesondere per E-Mail (neue Ziff. 6 unter "Vorstand")
    - Ermächtigung des Vorstands zur Unterzeichnung und Publikation der Statuten
 
 7. **Anträge des Vorstands und Varia**

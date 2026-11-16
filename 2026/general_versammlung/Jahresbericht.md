@@ -30,7 +30,7 @@ Rust Basel ist eine Community-basierte Vereinigung, die sich der Programmierspra
 | #14 | Mi, 11. Februar 2026 | 18:00–21:00 | Optravis LLC Headquarters, Barfüsserplatz 6, Basel | Open-Source-Arbeitsabend |
 | #15 | Di, 7. April 2026 | 18:00–20:00 | Oh!ffice Basel, Aeschenplatz 6, Basel | Talk-Abend |
 | #16 | Mi, 30. September 2026 | 18:00–20:00 | ERNI, Aeschenvorstadt 36, Basel | Talks, hybrid via Teams, Apéro |
-| #17 | Di, 24. November 2026 | 18:00–20:00 | ERNI, Aeschenvorstadt 36, Basel | Talks, Apéro |
+| #17 | Di, 24. November 2026 | 18:00–20:00 | ERNI, Aeschenvorstadt 36, Basel | Talks, hybrid via Teams, Apéro |
 
 **Talks und Inhalte:**
 
@@ -71,7 +71,7 @@ Endress+Hauser Digital Solutions und MDPI haben Events im Jahr 2025 unterstützt
 
 Ein separates Jahresprogramm besteht nicht. Die vier Meetups 2026 sind in Ziffer 2 aufgeführt.
 
-Ergänzend: Die Meetups fanden an drei Standorten in Basel statt (Optravis LLC am Barfüsserplatz, letsboot.ch am Aeschenplatz, ERNI an der Aeschenvorstadt). Meetup #16 wurde hybrid durchgeführt und konnte zusätzlich online über Teams verfolgt werden. Die Ankündigung erfolgte über meetup.com und den Discord-Server des Vereins.
+Ergänzend: Die Meetups fanden an drei Standorten in Basel statt (Optravis LLC am Barfüsserplatz, letsboot.ch am Aeschenplatz, ERNI an der Aeschenvorstadt). Die beiden Anlässe bei ERNI (#16 und #17) wurden hybrid durchgeführt und konnten zusätzlich online über Teams verfolgt werden. Die Ankündigung erfolgte über meetup.com und den Discord-Server des Vereins.
 
 ---
 
@@ -97,7 +97,7 @@ Ergänzend: Die Meetups fanden an drei Standorten in Basel statt (Optravis LLC a
 
 - Vier Meetups an drei Standorten in Basel, darunter erstmals ein Anlass bei ERNI und bei Optravis LLC
 - ERNI als neuer Sponsor gewonnen: zwei Anlässe inklusive Räumlichkeiten und Apéro auf der Dachterrasse
-- Erstmals ein hybrides Meetup (#16), das auch online über Teams verfolgt werden konnte
+- Erstmals hybrid durchgeführte Meetups (#16 und #17), die auch online über Teams verfolgt werden konnten
 - Neues Format erprobt: gemeinsames Arbeiten an Open-Source-Projekten statt Vorträgen (#14)
 - Konstante Teilnahme von rund 20 Personen pro Anlass; Talks aus der Community und aus Unternehmen
 - Statutenrevision vorbereitet: Vorstand mit fünf Mitgliedern, Beschlüsse per E-Mail, Versammlung im Folgejahr

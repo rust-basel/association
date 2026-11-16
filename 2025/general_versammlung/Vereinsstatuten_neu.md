@@ -8,7 +8,6 @@
 > - **Zirkularbeschlüsse (neu in 0.3):** Ziff. 6 unter "Vorstand" lässt Beschlüsse des Vorstands per E-Mail zu. Diese Bestimmung ist neu und nicht Bestandteil der an der GV 2025 angenommenen Fassung; sie wird der GV 2026 als Statutenänderung vorgelegt.
 > - **Termin der Generalversammlung (neu in 0.3):** Ziff. 2 und 3 unter "Vereinsversammlung" verlegen die ordentliche Versammlung von den letzten sechs Monaten des laufenden Jahres in die ersten vier Monate des Folgejahres. Damit liegt die Jahresrechnung bei der Einladung bereits abgeschlossen und geprüft vor. Die Antragsfrist verschiebt sich entsprechend vom 31. Januar auf den 31. Dezember. Ergänzt um eine Übergangsbestimmung: Die GV für das Geschäftsjahr 2027 findet im Frühjahr 2028 statt.
 > - **Vertretung (neu in 0.3):** Ziff. 8 unter "Vereinsversammlung" hält fest, dass ein vertretenes Aktivmitglied als anwesend gilt. Damit zählt eine schriftliche Vollmacht auch für die Anwesenheitsquoren bei Statutenänderungen und Auflösung.
-> - **Offener Punkt:** Die Klausel "Inkrafttreten der Statuten" verweist unverändert auf die Gründerversammlung vom 8. April 2025. Vor der Signatur ist zu entscheiden, wie die beiden Beschlussfassungen (Gründung 8. April 2025, Änderung 4. Dezember 2025, Nachvollzug 17. Dezember 2026) im Inkrafttretens-Abschnitt abgebildet werden.
 
 ## Name und Sitz
 
@@ -182,17 +181,12 @@ Die Organe des Vereins sind:
 
 ## Inkrafttreten der Statuten
 
+1. Diese Statuten wurden an der Gründerversammlung vom 8. April 2025 genehmigt und traten mit der Annahme in Kraft (Fassung 0.1).
+2. An der Generalversammlung vom 4. Dezember 2025 wurden der Vereinszweck neu gefasst und die Passivmitgliedschaften eingeführt. Die Änderungen traten mit der Annahme in Kraft (Fassung 0.2).
+3. An der Generalversammlung vom 17. Dezember 2026 wurden die Vorstandsgrösse auf fünf Mitglieder festgelegt, die Ämterliste bereinigt, der Zirkularbeschluss des Vorstands eingeführt, der Termin der ordentlichen Versammlung in die ersten vier Monate des Folgejahres verlegt sowie die Antragsfrist der Mitglieder und die Vertretung geregelt. Diese Fassung 0.3 tritt mit der Annahme in Kraft und ersetzt die vorangehenden Fassungen.
 
-Diese Statuten wurden an der Gründerversammlung vom 08.04.25 genehmigt und treten sofort in Kraft.
+Ort und Datum: Basel, 17. Dezember 2026
 
+[Unterschrift Präsident] Silen Locatelli
 
-Ort und Datum  
-
-
-
-[Unterschrift Gründerpräsident]  
-
-
-
-[Unterschrift Protokollführer]  
-
+[Unterschrift Aktuar] Jan Cristina

@@ -64,6 +64,7 @@ Der Vorstand beantragt:
 - **neu** unter "Vorstand" eine Ziff. 6 einzufügen, welche Beschlüsse des Vorstands auf dem Zirkularweg, insbesondere per E-Mail, zulässt;
 - **neu** den Termin der ordentlichen Generalversammlung in die ersten vier Monate des Folgejahres zu verlegen und die Antragsfrist der Mitglieder auf den 31. Dezember des Geschäftsjahres zu verschieben;
 - eine Übergangsbestimmung aufzunehmen, wonach die Generalversammlung für das Geschäftsjahr 2027 im Frühjahr 2028 stattfindet;
+- den Abschnitt "Inkrafttreten der Statuten" so zu fassen, dass die drei Beschlussfassungen abgebildet sind (Gründung 8. April 2025, Änderung 4. Dezember 2025, Revision 17. Dezember 2026);
 - den Vorstand zu ermächtigen, die Statuten zu unterzeichnen und zu publizieren.
 
 Begründung: Die Statuten Version 0.2 wurden an der GV 2025 angenommen, aber nie unterzeichnet und nie publiziert. Publiziert ist weiterhin Version 0.1. Zudem widerspricht die in 0.2 genannte Vorstandsgrösse von 3 Mitgliedern der tatsächlichen Zusammensetzung des Vorstands und der an der GV 2025 erfolgten Wahl.

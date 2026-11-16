@@ -39,4 +39,17 @@ render 2025/general_versammlung/protokoll_gv_2025.md 07-protokoll-gv-2025.pdf
 render 2025/general_versammlung/Vereinsstatuten_neu.md 08-statuten-0.3.pdf
 render 2026/board_meetings/vorstandsbeschluss_gv_2026.md 09-vorstandsbeschluss.pdf
 
+
+# Dokumente mit Unterschriftszeilen separat ablegen, damit sie ohne
+# Umsortieren unterschrieben werden koennen.
+sig="$out/unterschriften"
+mkdir -p "$sig"
+cp "$out/03-jahresbericht-2026.pdf"    "$sig/1-jahresbericht-2026.pdf"
+cp "$out/04-jahresrechnung-2026.pdf"   "$sig/2-jahresrechnung-2026.pdf"
+cp "$out/06-revisionsbericht-2026.pdf" "$sig/3-revisionsbericht-2026.pdf"
+cp "$out/08-statuten-0.3.pdf"          "$sig/4-statuten-0.3.pdf"
+cp "$out/07-protokoll-gv-2025.pdf"     "$sig/5-protokoll-gv-2025.pdf"
+printf '\nUnterschriften-Mappe:\n'
+ls -1 "$sig"
+
 printf '\nFertig: %s\n' "$(ls -1 "$out"/*.pdf | wc -l) PDFs in $out/"

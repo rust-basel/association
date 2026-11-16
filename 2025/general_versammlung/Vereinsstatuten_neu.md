@@ -2,7 +2,7 @@
 
 > Version 0.3
 
-> **Änderungshinweise zu dieser Fassung (offen bis zur Signatur)**
+> **Änderungshinweise zu dieser Fassung**
 >
 > - **Vorstandsgrösse:** Ziff. 1 und 2 unter "Vorstand" nennen neu 5 Mitglieder (bisher 3). Die Ämterliste umfasst Präsident, Vizepräsident, Aktuar, Kassier und einen oder mehrere Beisitzer; der Verein hat derzeit zwei Beisitzer (Roland Brand, Jônatas Oliveira), während Silen Locatelli Präsidium und Kassier in Personalunion führt. Grundlage: Der Verein hat 5 Vorstandsmitglieder, und die GV 2025 hat 5 Personen gewählt. Die Fassung 0.2 wurde an der GV vom 4. Dezember 2025 angenommen, aber nie unterzeichnet und nie publiziert; publiziert ist weiterhin Version 0.1.
 > - **Zirkularbeschlüsse (neu in 0.3):** Ziff. 6 unter "Vorstand" lässt Beschlüsse des Vorstands per E-Mail zu. Diese Bestimmung ist neu und nicht Bestandteil der an der GV 2025 angenommenen Fassung; sie wird der GV 2026 als Statutenänderung vorgelegt.
@@ -168,10 +168,10 @@ Die Organe des Vereins sind:
 2. Wird das Quorum nicht erreicht, ist eine zweite Vereinsversammlung mit den gleichen Traktanden innerhalb von 8 Wochen einzuberufen. Diese Versammlung ist ohne Rücksicht auf die Zahl der anwesenden **Aktivmitglieder** beschlussfähig.
 
 ### Auflösung
-3. Die Auflösung des Vereins erfordert die Anwesenheit von mindestens drei Vierteln aller **Aktivmitglieder** sowie die Zweidrittelmehrheit der abgegebenen Stimmen der **stimmberechtigten Mitglieder**.
+1. Die Auflösung des Vereins erfordert die Anwesenheit von mindestens drei Vierteln aller **Aktivmitglieder** sowie die Zweidrittelmehrheit der abgegebenen Stimmen der **stimmberechtigten Mitglieder**.
 
 ### Liquidation
-4. Bei Auflösung des Vereins fällt das Vereinsvermögen an eine gemeinnützige Organisation mit ähnlichen Zielen. Die Vereinsversammlung bestimmt die begünstigte Organisation. **Das Vereinsvermögen darf nicht an Mitglieder zurückfallen.**
+1. Bei Auflösung des Vereins fällt das Vereinsvermögen an eine gemeinnützige Organisation mit ähnlichen Zielen. Die Vereinsversammlung bestimmt die begünstigte Organisation. **Das Vereinsvermögen darf nicht an Mitglieder zurückfallen.**
 
 ## Übergangsbestimmungen
 

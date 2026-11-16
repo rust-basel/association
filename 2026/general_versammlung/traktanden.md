@@ -10,13 +10,13 @@
 ## Ordentliche Traktanden
 
 1. **Genehmigung des Protokolls der Generalversammlung 2025**
-   - Protokoll der GV vom 4. Dezember 2025 (Beilage 5)
+   - Protokoll der GV vom 4. Dezember 2025 (Beilage 7)
 
 2. **Abnahme des Jahresberichts, der Jahresrechnung, des Jahresbudgets und des Berichts der Revisionsstelle**
-   - Jahresbericht 2026 (Beilage 1)
-   - Jahresrechnung 2026, Stichtag 15. November 2026 (Beilage 2)
-   - Jahresbudget 2027 (Beilage 3)
-   - Bericht der Revisionsstelle 2026 (Beilage 4)
+   - Jahresbericht 2026 (Beilage 3)
+   - Jahresrechnung 2026, Stichtag 15. November 2026 (Beilage 4)
+   - Jahresbudget 2027 (Beilage 5)
+   - Bericht der Revisionsstelle 2026 (Beilage 6)
 
    Hinweis: Der Stichtag der Jahresrechnung liegt bewusst vor dem Versanddatum der Einladung, damit die geprüfte Rechnung dieser Einladung vollständig beiliegen kann. Die Geschäftsvorfälle vom 16. November bis 31. Dezember 2026 werden an der Versammlung als Nachtrag rapportiert und gehen in die Jahresrechnung 2027 ein.
 
@@ -26,7 +26,7 @@
 4. **Festsetzung der Mitgliederbeiträge und des Jahresbudgets 2027**
 
 5. **Wahl und Abberufung des Vorstands und der Revisionsstelle**
-   - Amtsdauer ein Jahr; alle bisherigen Mandate stehen zur Wiederwahl
+   - Amtsdauer ein Jahr. Der Vorstand stellt sich zur Wiederwahl; für die Revisionsstelle liegt ein Wahlvorschlag vor (vgl. `antraege_vorstand.md`)
 
 6. **Statutenrevision (Version 0.3)**
    - Verabschiedung des an der GV 2025 beschlossenen Statutentexts in der bereinigten Fassung (inkl. der 2025 eingeführten Passivmitgliedschaften)

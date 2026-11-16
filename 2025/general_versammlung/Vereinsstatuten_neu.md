@@ -4,7 +4,7 @@
 
 > **Änderungshinweise zu dieser Fassung (offen bis zur Signatur)**
 >
-> - **Vorstandsgrösse:** Ziff. 1 und 2 unter "Vorstand" nennen neu 5 Mitglieder (bisher 3). Die Ämterliste umfasst Präsident, Vizepräsident, Aktuar, Kassier und einen Beisitzer. Grundlage: Der Verein hat 5 Vorstandsmitglieder, und die GV 2025 hat 5 Personen gewählt. Die Fassung 0.2 wurde an der GV vom 4. Dezember 2025 angenommen, aber nie unterzeichnet und nie publiziert; publiziert ist weiterhin Version 0.1.
+> - **Vorstandsgrösse:** Ziff. 1 und 2 unter "Vorstand" nennen neu 5 Mitglieder (bisher 3). Die Ämterliste umfasst Präsident, Vizepräsident, Aktuar, Kassier und einen oder mehrere Beisitzer; der Verein hat derzeit zwei Beisitzer (Roland Brand, Jônatas Oliveira), während Silen Locatelli Präsidium und Kassier in Personalunion führt. Grundlage: Der Verein hat 5 Vorstandsmitglieder, und die GV 2025 hat 5 Personen gewählt. Die Fassung 0.2 wurde an der GV vom 4. Dezember 2025 angenommen, aber nie unterzeichnet und nie publiziert; publiziert ist weiterhin Version 0.1.
 > - **Zirkularbeschlüsse (neu in 0.3):** Ziff. 6 unter "Vorstand" lässt Beschlüsse des Vorstands per E-Mail zu. Diese Bestimmung ist neu und nicht Bestandteil der an der GV 2025 angenommenen Fassung; sie wird der GV 2026 als Statutenänderung vorgelegt.
 > - **Termin der Generalversammlung (neu in 0.3):** Ziff. 2 und 3 unter "Vereinsversammlung" verlegen die ordentliche Versammlung von den letzten sechs Monaten des laufenden Jahres in die ersten vier Monate des Folgejahres. Damit liegt die Jahresrechnung bei der Einladung bereits abgeschlossen und geprüft vor. Die Antragsfrist verschiebt sich entsprechend vom 31. Januar auf den 31. Dezember. Ergänzt um eine Übergangsbestimmung: Die GV für das Geschäftsjahr 2027 findet im Frühjahr 2028 statt.
 > - **Offener Punkt:** Die Klausel "Inkrafttreten der Statuten" verweist unverändert auf die Gründerversammlung vom 8. April 2025. Vor der Signatur ist zu entscheiden, wie die beiden Beschlussfassungen (Gründung 8. April 2025, Änderung 4. Dezember 2025, Nachvollzug 17. Dezember 2026) im Inkrafttretens-Abschnitt abgebildet werden.
@@ -13,7 +13,7 @@
 ## Name und Sitz
 
 Unter dem Namen Rust Basel besteht ein Verein, der den vorliegenden Statuten und den Vorschriften in Art. 60 ff. ZGB untersteht.
-Sitz des Vereins ist Basel Stadt.
+Sitz des Vereins ist Basel-Stadt.
 
 ## Zweck
 
@@ -21,7 +21,7 @@ Der Verein ist eine gemeinnützige, nicht gewinnorientierte Organisation, die fo
 
 a) **Bildungsförderung:** Förderung der Bildung und des Wissensaustauschs im Bereich der Rust-Programmiersprache und verwandter Technologien
 
-b) **Wissenschaftliche Forschung:** Unterstützung wissenschaftlichen Arbeiten im Zusammenhang mit Rust
+b) **Wissenschaftliche Forschung:** Unterstützung wissenschaftlicher Arbeiten im Zusammenhang mit Rust
 
 c) **Gemeinnützige Bildungsarbeit:** Organisation von kostenlosen oder kostendeckenden Bildungsveranstaltungen, Workshops, Konferenzen und Schulungen
 
@@ -30,7 +30,7 @@ d) **Wissenstransfer:** Förderung des Austauschs zwischen Wissenschaft, Industr
 e) **Open Source Förderung:** Unterstützung von Open-Source-Projekten und gemeinnütziger Softwareentwicklung
 
 ### Gemeinnützigkeit
-Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke. Der Verein ist selbstlos tätig, er verfolgt keine eigenwirtschaftliche Zwecke.
+Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke. Der Verein ist selbstlos tätig, er verfolgt keine eigenwirtschaftlichen Zwecke.
 
 Der Verein ist politisch und konfessionell neutral.
 Einer Umwandlung des Vereinszwecks müssen alle stimmberechtigten Vereinsmitglieder zustimmen.
@@ -130,7 +130,7 @@ Die Organe des Vereins sind:
 ### Vorstand
 
 1. Der Vorstand besteht aus 5 Mitgliedern. Sie werden von der Vereinsversammlung für die Amtsdauer von einem Jahr gewählt. Wiederwahl ist zulässig. Eine Abberufung ist jederzeit und fristlos möglich.
-2. Die Vereinsversammlung wählt den Präsidenten. Im Übrigen konstituiert sich der Vorstand selbst und bestimmt die Zeichnungsberechtigung. Grundsätzlich gilt Kollektivunterschrift oder Einzelunterschrift. Der Vorstand besteht aus dem Präsidenten, dem Vizepräsidenten, dem Aktuar, dem Kassier und einem Beisitzer. Ämterkumulation ist zulässig.
+2. Die Vereinsversammlung wählt den Präsidenten. Im Übrigen konstituiert sich der Vorstand selbst und bestimmt die Zeichnungsberechtigung. Grundsätzlich gilt Kollektivunterschrift oder Einzelunterschrift. Der Vorstand besteht aus dem Präsidenten, dem Vizepräsidenten, dem Aktuar, dem Kassier und einem oder mehreren Beisitzern. Ämterkumulation ist zulässig.
 3. Dem Vorstand obliegt die Leitung und Vertretung des Vereins. Er kann in allen Angelegenheiten Beschluss fassen, die nicht nach dem Gesetz oder den Statuten der Vereinsversammlung zugeteilt sind. Es sind dies insbesondere:
    a. Führung der laufenden Geschäfte und Organisation des Vereins;
    b. Vorbereitung und Durchführung der Vereinsversammlungen;

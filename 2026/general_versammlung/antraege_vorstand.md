@@ -30,7 +30,7 @@ Der Vorstand beantragt:
 
 - den Mitgliederbeitrag für Aktivmitglieder auf CHF 0.– zu belassen;
 - den Mitgliederbeitrag für Passivmitglieder auf CHF 0.– zu belassen;
-- das Jahresbudget 2027 gemäss Beilage 3 festzusetzen.
+- das Jahresbudget 2027 gemäss Beilage 5 festzusetzen.
 
 Begründung: Die Mitgliedschaft soll niederschwellig bleiben. Die Vereinstätigkeit wird über Sponsoring finanziert.
 

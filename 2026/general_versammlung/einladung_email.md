@@ -1,6 +1,6 @@
 # Einladung zur Generalversammlung 2026 – E-Mail-Entwurf
 
-> **Status: Entwurf, versandbereit nach Ausfüllen von Ort, Anhängen und Todo-Stellen.**
+> **Status: Entwurf.** Auszufüllen bleiben Vereinspostadresse und Anmeldefrist; die Beilagen sind als PDF anzuhängen.
 > **Versandfrist:** spätestens Dienstag, 17. November 2026 (30 Tage vor dem 17. Dezember 2026).
 > **Absender:** Der Vorstand Rust Basel – Vorstandsadresse, nicht eine Privatadresse.
 > **Empfänger:** alle Aktivmitglieder; Passivmitglieder erhalten die Einladung zur Information (kein Stimmrecht, keine Anwesenheitspflicht).
@@ -70,13 +70,13 @@ Der Vorstand des Vereins Rust Basel
 
 ## Packliste vor dem Versand
 
-- [ ] Ort und Zeit bestätigt (Raum reserviert)
-- [ ] Jahresbericht 2026 fertig, alle `[TODO]` ausgefüllt
+- [ ] Ort und Zeit bestätigt (Markthalle Basel, Raum reserviert)
+- [ ] Jahresbericht 2026 geprüft und unterzeichnet
 - [ ] Jahresrechnung 2026 erstellt, Stichtag 15. November 2026, mit Revisionsstelle abgestimmt
-- [ ] Bericht der Revisionsstelle 2026 unterzeichnet und datiert (Silen Locatelli, mit Offenlegung der Doppelrolle als Präsident und Kassier)
-- [ ] Jahresbudget 2027 fertig, alle `[TODO]` ausgefüllt
+- [ ] Bericht der Revisionsstelle 2026 unterzeichnet und datiert (mit Offenlegung der Doppelrolle)
+- [ ] Jahresbudget 2027 geprüft
 - [ ] Protokoll der Generalversammlung 2025 liegt bei; die Unterschrift von Vorsitz und Protokollführer erfolgt an der Versammlung
-- [ ] Statuten Version 0.3 bereinigt (5 Vorstandsmitglieder, Zirkularbeschluss per E-Mail) und als Version 0.3 gekennzeichnet
+- [ ] Statuten Version 0.3 bereinigt (5 Vorstandsmitglieder, Zirkularbeschluss per E-Mail, GV-Termin im Folgejahr) und als Version 0.3 gekennzeichnet
 - [ ] Einberufung durch Vorstandsbeschluss protokolliert
 - [ ] Alle Beilagen als PDF beigelegt
 - [ ] Versand bis spätestens 17. November 2026

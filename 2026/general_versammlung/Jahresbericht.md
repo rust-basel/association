@@ -88,7 +88,7 @@ Ergänzend: Die Meetups fanden an drei Standorten in Basel statt (Optravis LLC a
 ## 6. Finanzen
 
 - Siehe Jahresrechnung 2026, Stichtag 15. November 2026
-- Kassenbestand per 15. November 2026: 0.00 CHF (gemäss Jahresrechnung 2026; durch Kontoauszug zu bestätigen)
+- Kassenbestand per 15. November 2026: 0.00 CHF (gemäss Jahresrechnung 2026; der Verein verfügt über kein Vereinskonto mit Umsatz, ein Kontoauszug existiert nicht)
 - Die Tätigkeit ist vollständig sponsoringfinanziert; es werden keine Mitgliederbeiträge erhoben
 
 ---

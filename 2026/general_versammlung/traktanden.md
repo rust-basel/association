@@ -1,0 +1,70 @@
+# Traktanden Generalversammlung 2026
+
+**Verein:** Rust Basel
+**Datum:** Donnerstag, 17. Dezember 2026
+**Zeit:** 19:00 Uhr
+**Ort:** [TODO: Ort bestätigen, z. B. letsboot, Basel]
+
+---
+
+## Ordentliche Traktanden
+
+1. **Genehmigung des Protokolls der Generalversammlung 2025**
+   - Protokoll der GV vom 4. Dezember 2025 (Beilage 5)
+
+2. **Abnahme des Jahresberichts, der Jahresrechnung, des Jahresbudgets und des Berichts der Revisionsstelle**
+   - Jahresbericht 2026 (Beilage 1)
+   - Jahresrechnung 2026, Stichtag 15. November 2026 (Beilage 2)
+   - Jahresbudget 2027 (Beilage 3)
+   - Bericht der Revisionsstelle 2026 (Beilage 4)
+
+   Hinweis: Der Stichtag der Jahresrechnung liegt bewusst vor dem Versanddatum der Einladung, damit die geprüfte Rechnung dieser Einladung vollständig beiliegen kann. Die Geschäftsvorfälle vom 16. November bis 31. Dezember 2026 werden an der Versammlung als Nachtrag rapportiert und gehen in die Jahresrechnung 2027 ein.
+
+3. **Entlastung des Vorstands und der Revisionsstelle**
+
+4. **Festsetzung der Mitgliederbeiträge und des Jahresbudgets 2027**
+
+5. **Wahl und Abberufung des Vorstands und der Revisionsstelle**
+   - Amtsdauer ein Jahr; alle bisherigen Mandate stehen zur Wiederwahl
+
+6. **Nachvollzug der Statutenänderung (Version 0.2)**
+   - Verabschiedung des an der GV 2025 beschlossenen Statutentexts in der bereinigten Fassung 0.2
+   - Bereinigung: Der Vorstand besteht aus 5 Mitgliedern (bisher: 3), Ämterliste konsistent
+   - Ermächtigung des Vorstands zur Unterzeichnung und Publikation der Statuten
+
+7. **Anträge des Vorstands und Varia**
+   - Frist für Anträge von Mitgliedern (31. Januar 2026) ist abgelaufen; es sind keine fristgerechten Anträge eingegangen
+
+---
+
+## Anträge des Vorstands
+
+Die Anträge des Vorstands zu den einzelnen Traktanden sind in `antraege_vorstand.md` aufgeführt und Bestandteil dieser Einladung.
+
+---
+
+## Beilagen zur Einladung
+
+Pflichtbeilagen gemäss Statuten (Art. "Vereinsversammlung", Ziff. 2):
+
+- Traktanden (dieses Dokument)
+- Anträge des Vorstands
+- Jahresbericht 2026
+- Jahresrechnung 2026 (Stichtag 15. November 2026)
+- Bericht der Revisionsstelle 2026
+
+Weitere Beilagen:
+
+- Jahresbudget 2027 (wird unter Traktandum 2 und 4 zur Abnahme resp. Festsetzung vorgelegt)
+- Protokoll der Generalversammlung 2025 (Traktandum 1)
+- Statuten Version 0.2 (Traktandum 6)
+- Vollmachtsformular
+
+---
+
+## Hinweise zur Durchführung
+
+- **Stimmberechtigt:** Aktivmitglieder. Passivmitglieder werden informiert, haben kein Stimmrecht und keine Anwesenheitspflicht.
+- **Vertretung:** Jedes Aktivmitglied kann sich mittels schriftlicher Vollmacht durch eine Drittperson vertreten lassen.
+- **Quorum:** Für die Verabschiedung der Statuten (Traktandum 6) ist die Anwesenheit von drei Vierteln aller Aktivmitglieder erforderlich. Wird das Quorum nicht erreicht, ist innerhalb von 8 Wochen eine zweite Versammlung mit denselben Traktanden einzuberufen.
+- **Einladungsfrist:** 30 Tage; Einladung durch den Vorstand.

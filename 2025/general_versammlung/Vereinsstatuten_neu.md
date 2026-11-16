@@ -2,6 +2,12 @@
 
 > Version 0.2
 
+> **Änderungshinweise zu dieser Fassung (offen bis zur Signatur)**
+>
+> - **Vorstandsgrösse:** Ziff. 1 und 2 unter "Vorstand" nennen neu 5 Mitglieder (bisher 3). Die Ämterliste umfasst Präsident, Vizepräsident, Aktuar, Kassier und einen Beisitzer. Grundlage: Der Verein hat 5 Vorstandsmitglieder, und die GV 2025 hat 5 Personen gewählt. Die Fassung 0.2 wurde an der GV vom 4. Dezember 2025 angenommen, aber nie unterzeichnet und nie publiziert; publiziert ist weiterhin Version 0.1.
+> - **Offener Punkt:** Die Klausel "Inkrafttreten der Statuten" verweist unverändert auf die Gründerversammlung vom 8. April 2025. Vor der Signatur ist zu entscheiden, wie die beiden Beschlussfassungen (Gründung 8. April 2025, Änderung 4. Dezember 2025, Nachvollzug 17. Dezember 2026) im Inkrafttretens-Abschnitt abgebildet werden.
+> - **Offener Punkt:** Die Bestimmung zum Anwesenheitsquorum bei Statutenänderungen lässt offen, ob eine vertretene Person als anwesend gilt. Vor der Signatur klären und eindeutig formulieren.
+
 ## Name und Sitz
 
 Unter dem Namen Rust Basel besteht ein Verein, der den vorliegenden Statuten und den Vorschriften in Art. 60 ff. ZGB untersteht.
@@ -121,8 +127,8 @@ Die Organe des Vereins sind:
     
 ### Vorstand
 
-1. Der Vorstand besteht aus 3 Mitgliedern. Sie werden von der Vereinsversammlung für die Amtsdauer von einem Jahren gewählt. Wiederwahl ist zulässig. Eine Abberufung ist jederzeit und fristlos möglich.
-2. Die Vereinsversammlung wählt den Präsidenten. Im Übrigen konstituiert sich der Vorstand selbst und bestimmt die Zeichnungsberechtigung. Grundsätzlich gilt Kollektivunterschrift oder Einzelunterschrift. Der Vorstand besteht aus dem Präsidenten, Vizepräsidenten, Aktuar und Kassier. Ämterkumulation ist zulässig.
+1. Der Vorstand besteht aus 5 Mitgliedern. Sie werden von der Vereinsversammlung für die Amtsdauer von einem Jahr gewählt. Wiederwahl ist zulässig. Eine Abberufung ist jederzeit und fristlos möglich.
+2. Die Vereinsversammlung wählt den Präsidenten. Im Übrigen konstituiert sich der Vorstand selbst und bestimmt die Zeichnungsberechtigung. Grundsätzlich gilt Kollektivunterschrift oder Einzelunterschrift. Der Vorstand besteht aus dem Präsidenten, dem Vizepräsidenten, dem Aktuar, dem Kassier und einem Beisitzer. Ämterkumulation ist zulässig.
 3. Dem Vorstand obliegt die Leitung und Vertretung des Vereins. Er kann in allen Angelegenheiten Beschluss fassen, die nicht nach dem Gesetz oder den Statuten der Vereinsversammlung zugeteilt sind. Es sind dies insbesondere:
    a. Führung der laufenden Geschäfte und Organisation des Vereins;
    b. Vorbereitung und Durchführung der Vereinsversammlungen;

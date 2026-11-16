@@ -93,14 +93,6 @@ Gegenüberstellung: Total Ausgaben 1'020.00 = Gesamtsponsoring 1'020.00.
 
 ---
 
-## Offene Punkte vor der Unterzeichnung
-
-1. **Beträge:** Die Positionen beruhen auf den Budgetansätzen und den mündlichen Zusagen der Sponsoren. Es liegen keine Rechnungen vor. Der Vorstand bestätigt die Beträge mit der Unterzeichnung dieser Jahresrechnung.
-2. **Kassenbestand:** Ausgewiesen mit CHF 0.00. Ein Kontoauszug liegt nicht vor; der Verein verfügt über kein Vereinskonto mit Umsatz.
-3. **Belegablage:** Für 2026 nicht mehr nachholbar. Ab 2027 Belege und schriftliche Sponsoringbestätigungen ablegen (siehe Empfehlung im Bericht der Revisionsstelle).
-
----
-
 **Gültig ab:** 17. Dezember 2026
 
 **Bestätigung des Vorstands:** Der Vorstand bestätigt, dass die in dieser Jahresrechnung ausgewiesenen Leistungen im Berichtsjahr 2026 in der angegebenen Höhe zugesagt und erbracht wurden und dass keine darüber hinausgehenden Verbindlichkeiten des Vereins bestehen.

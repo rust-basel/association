@@ -2,7 +2,6 @@
 
 **Berichtsjahr:** 2026
 
-> **Status: Entwurf.** Aktivitäten und Kennzahlen sind aus meetup.com/rust-basel und den Projektdateien zusammengetragen. Zwei Punkte bleiben zu bestätigen: ob 2026 Workshops ausserhalb von Meetup stattfanden und die Formulierung der Highlights.
 
 ---
 
@@ -37,7 +36,7 @@ Rust Basel ist eine Community-basierte Vereinigung, die sich der Programmierspra
 - **#14:** Kein Vortragsformat, sondern gemeinsames Arbeiten an Open-Source-Projekten. Die Themen wurden zu Beginn gesammelt und per Abstimmung priorisiert; die Idee stammt von der Hackergarten Basel.
 - **#15:** Roland Brand – «Full Stack Rust with trailbase & Dioxus»; Jan Ferdinand Sauer – «Macros in Rust – Syntax Extensions and Metaprogramming».
 - **#16:** Alexander Walter (ERNI) – «From Memory Safety to Business Value: building with Rust at ERNI»; Silen Locatelli – «Rust – fast business logic»; Yasin Weber – «Experiences from mixed Rust/C++ Codebases».
-- **#17:** Yasin Weber – Erfahrungen aus gemischten Rust/C++-Codebasen; Jan Cristina – GPU-Programmierung in Rust.
+- **#17:** Yasin Weber – «Experiences from mixed Rust/C++ Codebases»; Jan Cristina – «GPU programming in Rust».
 
 **Sponsoring 2026:**
 - ERNI (Meetups #16 und #17, inkl. Räumlichkeiten im 6. Stock, Verpflegung und Apéro auf der Dachterrasse)
@@ -54,8 +53,8 @@ Endress+Hauser Digital Solutions und MDPI haben Events im Jahr 2025 unterstützt
 - Open-Source-Beiträge und gemeinsames Arbeiten am Rust-Ökosystem (Meetup #14)
 - Makros und Metaprogrammierung (Meetup #15)
 - Full-Stack-Rust mit Trailbase und Dioxus (Meetup #15)
-- Rust im Unternehmenseinsatz und gemischte Rust/C++-Codebasen (Meetup #16)
-- GPU-Programmierung in Rust (Meetup #17)
+- Rust im Unternehmenseinsatz (Meetup #16), «Experiences from mixed Rust/C++ Codebases» (Meetups #16 und #17)
+- «GPU programming in Rust» (Meetup #17)
 
 ---
 

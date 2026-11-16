@@ -49,7 +49,9 @@ Der Vorstand beantragt die Wiederwahl der bisherigen Mandate:
 
 Revisionsstelle:
 
-- Silen Locatelli – Wahl.
+- Silen Locatelli – Wiederwahl für das folgende Amtsjahr.
+
+**Amtsführung 2026:** Die Revisionsstelle für das Geschäftsjahr 2026 ist Silen Locatelli; er hat den Bericht der Revisionsstelle 2026 unterzeichnet. Das Protokoll der GV 2025 nennt noch Roland Brand als Revisor. Der Wechsel im Laufe des Jahres 2026 ist an der Versammlung zu protokollieren und die Wahl für das folgende Amtsjahr nachzuholen.
 
 **Namen prüfen:** Der Aktuar heisst Jan Cristina (bisher im Protokoll der GV 2025 «Jan Christen»; dort korrigiert). Offen bleibt der Vizepräsident: Mitgliederliste «Guenduez Yasin», Protokoll «Yasin Gündüz», Meetup-Auftritt «Yasin Weber». Für die Wahl ist der Name gemäss offizieller Mitgliedschaft massgebend und vor dem Versand der Einladung zu bereinigen.
 

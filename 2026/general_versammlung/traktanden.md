@@ -3,7 +3,7 @@
 **Verein:** Rust Basel
 **Datum:** Donnerstag, 17. Dezember 2026
 **Zeit:** 19:00 Uhr
-**Ort:** [TODO: Ort bestätigen, z. B. letsboot, Basel]
+**Ort:** Markthalle Basel, Steinentorberg 20, 4051 Basel
 
 ---
 
@@ -70,3 +70,13 @@ Weitere Beilagen:
 - **Vertretung:** Jedes Aktivmitglied kann sich mittels schriftlicher Vollmacht durch eine Drittperson vertreten lassen.
 - **Quorum:** Für die Verabschiedung der Statuten (Traktandum 6) ist die Anwesenheit von drei Vierteln aller Aktivmitglieder erforderlich. Wird das Quorum nicht erreicht, ist innerhalb von 8 Wochen eine zweite Versammlung mit denselben Traktanden einzuberufen.
 - **Einladungsfrist:** 30 Tage; Einladung durch den Vorstand.
+
+---
+
+## Unterschriften an der Versammlung
+
+Folgende Dokumente werden an der Versammlung vom 17. Dezember 2026 unterzeichnet:
+
+- Protokoll der Generalversammlung 2026 (Vorsitz und Protokollführer)
+- Statuten Version 0.3 (Vorstand)
+- Jahresbericht 2026 und Jahresrechnung 2026 (Vorstand und Revisionsstelle), falls nicht bereits vor der Versammlung unterzeichnet

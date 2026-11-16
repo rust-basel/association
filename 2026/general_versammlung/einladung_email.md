@@ -21,7 +21,7 @@ Der Vorstand lädt Sie hiermit ordentlich zur Generalversammlung 2026 ein.
 
 **Datum:** Donnerstag, 17. Dezember 2026
 **Zeit:** 19:00 Uhr
-**Ort:** [TODO: Adresse, z. B. letsboot, Basel]
+**Ort:** Markthalle Basel, Steinentorberg 20, 4051 Basel
 
 ### Traktanden
 

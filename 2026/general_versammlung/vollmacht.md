@@ -2,7 +2,7 @@
 
 **Verein Rust Basel**
 Generalversammlung vom Donnerstag, 17. Dezember 2026, 19:00 Uhr
-Ort: [TODO: Adresse, z. B. letsboot, Basel]
+Ort: Markthalle Basel, Steinentorberg 20, 4051 Basel
 
 ---
 

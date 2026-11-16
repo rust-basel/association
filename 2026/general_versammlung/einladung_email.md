@@ -30,7 +30,7 @@ Der Vorstand lädt Sie hiermit ordentlich zur Generalversammlung 2026 ein.
 3. Entlastung des Vorstands und der Revisionsstelle
 4. Festsetzung der Mitgliederbeiträge und des Jahresbudgets 2027
 5. Wahl und Abberufung des Vorstands und der Revisionsstelle
-6. Nachvollzug der Statutenänderung (Version 0.2)
+6. Statutenrevision (Version 0.3)
 7. Anträge des Vorstands und Varia
 
 Die vollständige Traktandenliste sowie die Anträge des Vorstands finden Sie in den Beilagen.
@@ -44,7 +44,7 @@ Die vollständige Traktandenliste sowie die Anträge des Vorstands finden Sie in
 5. Jahresbudget 2027
 6. Bericht der Revisionsstelle 2026
 7. Protokoll der Generalversammlung 2025
-8. Statuten Version 0.2
+8. Statuten Version 0.3
 9. Vollmachtsformular
 
 ### Hinweise

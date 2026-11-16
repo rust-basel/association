@@ -1,10 +1,11 @@
 # Statuten des Vereins Rust Basel 
 
-> Version 0.2
+> Version 0.3
 
 > **Änderungshinweise zu dieser Fassung (offen bis zur Signatur)**
 >
 > - **Vorstandsgrösse:** Ziff. 1 und 2 unter "Vorstand" nennen neu 5 Mitglieder (bisher 3). Die Ämterliste umfasst Präsident, Vizepräsident, Aktuar, Kassier und einen Beisitzer. Grundlage: Der Verein hat 5 Vorstandsmitglieder, und die GV 2025 hat 5 Personen gewählt. Die Fassung 0.2 wurde an der GV vom 4. Dezember 2025 angenommen, aber nie unterzeichnet und nie publiziert; publiziert ist weiterhin Version 0.1.
+> - **Zirkularbeschlüsse (neu in 0.3):** Ziff. 6 unter "Vorstand" lässt Beschlüsse des Vorstands per E-Mail zu. Diese Bestimmung ist neu und nicht Bestandteil der an der GV 2025 angenommenen Fassung; sie wird der GV 2026 als Statutenänderung vorgelegt.
 > - **Offener Punkt:** Die Klausel "Inkrafttreten der Statuten" verweist unverändert auf die Gründerversammlung vom 8. April 2025. Vor der Signatur ist zu entscheiden, wie die beiden Beschlussfassungen (Gründung 8. April 2025, Änderung 4. Dezember 2025, Nachvollzug 17. Dezember 2026) im Inkrafttretens-Abschnitt abgebildet werden.
 > - **Offener Punkt:** Die Bestimmung zum Anwesenheitsquorum bei Statutenänderungen lässt offen, ob eine vertretene Person als anwesend gilt. Vor der Signatur klären und eindeutig formulieren.
 
@@ -136,6 +137,11 @@ Die Organe des Vereins sind:
    d. Buchführung.
 4. Der Vorstand wird auf Antrag des Präsidenten oder auf Verlangen eines Vorstandsmitgliedes einberufen. Er ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist. Die Sitzungen sind zu protokollieren.
 5. Jedes Vorstandsmitglied hat eine Stimme. Beschlüsse erfolgen mit dem einfachen Mehr der Anwesenden. Bei Stimmengleichheit hat der Präsident den Stichentscheid.
+6. **Beschlüsse auf dem Zirkularweg:** Der Vorstand kann Beschlüsse ohne Sitzung auf dem Weg der schriftlichen oder elektronischen Zustimmung fassen, insbesondere per E-Mail. Ein solcher Beschluss ist gültig, wenn
+   a. allen Vorstandsmitgliedern der Antrag samt den erforderlichen Unterlagen schriftlich oder elektronisch zugestellt wurde und
+   b. sämtliche Vorstandsmitglieder dem Antrag schriftlich oder elektronisch zugestimmt haben.
+   Verlangt ein Vorstandsmitglied vor seiner Zustimmung eine mündliche Beratung, ist der Antrag an der nächsten Vorstandssitzung zu behandeln.
+   Zirkularbeschlüsse sind zu protokollieren; die Zustimmungen sind dem Protokoll beizulegen.
 
 ### Revisionsstelle
 

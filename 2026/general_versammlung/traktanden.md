@@ -57,7 +57,7 @@ Weitere Beilagen:
 
 - Jahresbudget 2027 (wird unter Traktandum 2 und 4 zur Abnahme resp. Festsetzung vorgelegt)
 - Protokoll der Generalversammlung 2025 (Traktandum 1)
-- Statuten Version 0.2 (Traktandum 6)
+- Statuten Version 0.3 (Traktandum 6)
 - Vollmachtsformular
 
 ---

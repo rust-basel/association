@@ -62,14 +62,13 @@ Weitere Beilagen:
 - Jahresbudget 2027 (wird unter Traktandum 2 und 4 zur Abnahme resp. Festsetzung vorgelegt)
 - Protokoll der Generalversammlung 2025 (Traktandum 1)
 - Statuten Version 0.3 (Traktandum 6)
-- Vollmachtsformular
 
 ---
 
 ## Hinweise zur Durchführung
 
 - **Stimmberechtigt:** Aktivmitglieder. Passivmitglieder werden informiert, haben kein Stimmrecht und keine Anwesenheitspflicht.
-- **Vertretung:** Jedes Aktivmitglied kann sich mittels schriftlicher Vollmacht durch eine Drittperson vertreten lassen.
+- **Vertretung:** Jedes Aktivmitglied kann sich mittels schriftlicher Vollmacht durch eine Drittperson vertreten lassen. Ein Formular wird nicht abgegeben; eine kurze schriftliche Erklärung an den Vorstand genügt.
 - **Quorum:** Für die Verabschiedung der Statuten (Traktandum 6) ist die Anwesenheit von drei Vierteln aller Aktivmitglieder erforderlich. Wird das Quorum nicht erreicht, ist innerhalb von 8 Wochen eine zweite Versammlung mit denselben Traktanden einzuberufen.
 - **Einladungsfrist:** 30 Tage; Einladung durch den Vorstand.
 

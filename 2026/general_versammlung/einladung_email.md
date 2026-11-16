@@ -45,12 +45,11 @@ Die vollständige Traktandenliste sowie die Anträge des Vorstands finden Sie in
 6. Bericht der Revisionsstelle 2026
 7. Protokoll der Generalversammlung 2025
 8. Statuten Version 0.3
-9. Vollmachtsformular
 
 ### Hinweise
 
 - **Stimmberechtigt sind die Aktivmitglieder.** Passivmitglieder sind zur Teilnahme nicht verpflichtet und haben kein Stimmrecht.
-- **Vertretung:** Sie können sich durch eine Drittperson vertreten lassen. Bitte senden Sie das unterzeichnete Vollmachtsformular bis [TODO: Datum, z. B. 15. Dezember 2026] an [TODO: E-Mail-Adresse] – oder bringen Sie es im Original mit.
+- **Vertretung:** Sie können sich durch eine Drittperson vertreten lassen. Eine kurze schriftliche Erklärung an den Vorstand genügt; ein Formular wird nicht abgegeben.
 - **Statutenänderung (Traktandum 6):** Für die Verabschiedung der Statuten ist die Anwesenheit von drei Vierteln aller Aktivmitglieder erforderlich. Bitte prüfen Sie, ob Sie an der Versammlung teilnehmen oder eine Vollmacht erteilen können.
 - **Anträge:** Die Frist für Anträge von Mitgliedern an die Generalversammlung ist gemäss Statuten am 31. Januar 2026 abgelaufen. Es sind keine fristgerechten Anträge eingegangen; die Traktandenliste ist entsprechend geschlossen. Spontane Wortmeldungen unter «Varia» bleiben selbstverständlich möglich.
 - **Stichtag der Jahresrechnung:** Die Jahresrechnung 2026 schliesst per 15. November 2026 und liegt dieser Einladung vollständig geprüft bei. Die Geschäftsvorfälle bis zum 31. Dezember 2026 werden an der Versammlung als Nachtrag rapportiert und in der Jahresrechnung 2027 geführt.
@@ -78,7 +77,6 @@ Der Vorstand des Vereins Rust Basel
 - [ ] Jahresbudget 2027 fertig, alle `[TODO]` ausgefüllt
 - [ ] Protokoll der Generalversammlung 2025 unterzeichnet (zwei Unterschriften: Vorsitz und Protokollführer)
 - [ ] Statuten Version 0.3 bereinigt (5 Vorstandsmitglieder, Zirkularbeschluss per E-Mail) und als Version 0.3 gekennzeichnet
-- [ ] Vollmachtsformular erstellt
 - [ ] Einberufung durch Vorstandsbeschluss protokolliert
 - [ ] Alle Beilagen als PDF beigelegt
 - [ ] Versand bis spätestens 17. November 2026

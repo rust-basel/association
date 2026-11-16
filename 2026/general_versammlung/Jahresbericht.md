@@ -2,7 +2,7 @@
 
 **Berichtsjahr:** 2026
 
-> **Status: Entwurf.** Aktivitäten und Kennzahlen sind aus den vorhandenen Projektdateien zusammengetragen und müssen vom Vorstand ergänzt und bestätigt werden. Alle `[TODO]`-Stellen vor dem Versand ausfüllen.
+> **Status: Entwurf.** Aktivitäten und Kennzahlen sind aus meetup.com/rust-basel und den Projektdateien zusammengetragen. Zwei Punkte bleiben zu bestätigen: ob 2026 Workshops ausserhalb von Meetup stattfanden und die Formulierung der Highlights.
 
 ---
 
@@ -23,47 +23,55 @@ Rust Basel ist eine Community-basierte Vereinigung, die sich der Programmierspra
 
 ### Durchgeführte Aktivitäten
 
-**Meetups** (Angaben gemäss meetup.com/rust-basel, abgeglichen am 16.11.2026):
+**Meetups** (Angaben gemäss meetup.com/rust-basel):
 
-| Nr. | Datum | Zeit | Ort | Besonderes |
+| Nr. | Datum | Zeit | Ort | Format |
 |---|---|---|---|---|
-| #14 | Mi, 11. Februar 2026 | 18:00–21:00 | Optravis LLC Headquarters, Barfüsserplatz 6, Basel | Schwerpunkt Open-Source-Beiträge |
-| #15 | Di, 7. April 2026 | 18:00–20:00 | Oh!ffice Basel, Aeschenplatz 6, Basel | 19 Anmeldungen |
-| #16 | Mi, 30. September 2026 | 18:00–20:00 | ERNI, Aeschenvorstadt 36, Basel | gesponsert durch ERNI |
-| #17 | Di, 24. November 2026 | 18:00–20:00 | ERNI, Aeschenvorstadt 36, Basel | gesponsert durch ERNI |
+| #14 | Mi, 11. Februar 2026 | 18:00–21:00 | Optravis LLC Headquarters, Barfüsserplatz 6, Basel | Open-Source-Arbeitsabend |
+| #15 | Di, 7. April 2026 | 18:00–20:00 | Oh!ffice Basel, Aeschenplatz 6, Basel | Talk-Abend |
+| #16 | Mi, 30. September 2026 | 18:00–20:00 | ERNI, Aeschenvorstadt 36, Basel | Talks, hybrid via Teams, Apéro |
+| #17 | Di, 24. November 2026 | 18:00–20:00 | ERNI, Aeschenvorstadt 36, Basel | Talks, Apéro |
 
-Talks an Meetup #17: Yasin Weber – Erfahrungen aus gemischten Rust/C++-Codebasen; Jan Cristina – GPU-Programmierung in Rust.
+**Talks und Inhalte:**
+
+- **#14:** Kein Vortragsformat, sondern gemeinsames Arbeiten an Open-Source-Projekten. Die Themen wurden zu Beginn gesammelt und per Abstimmung priorisiert; die Idee stammt von der Hackergarten Basel.
+- **#15:** Roland Brand – «Full Stack Rust with trailbase & Dioxus»; Jan Ferdinand Sauer – «Macros in Rust – Syntax Extensions and Metaprogramming».
+- **#16:** Alexander Walter (ERNI) – «From Memory Safety to Business Value: building with Rust at ERNI»; Silen Locatelli – «Rust – fast business logic»; Yasin Weber – «Experiences from mixed Rust/C++ Codebases».
+- **#17:** Yasin Weber – Erfahrungen aus gemischten Rust/C++-Codebasen; Jan Cristina – GPU-Programmierung in Rust.
 
 **Sponsoring 2026:**
-- ERNI (Meetups #16 und #17, inkl. Räumlichkeiten und Apéro)
-- letsboot.ch (Räumlichkeiten Meetup #15)
+- ERNI (Meetups #16 und #17, inkl. Räumlichkeiten im 6. Stock, Verpflegung und Apéro auf der Dachterrasse)
+- letsboot.ch (Räumlichkeiten und Sponsoring Meetup #15)
 - Optravis LLC (Räumlichkeiten Meetup #14)
 
 Endress+Hauser Digital Solutions und MDPI haben Events im Jahr 2025 unterstützt (vgl. `../social_meda_posts/`).
 
 **Hinweis zum Stichtag:** Meetup #17 findet am 24. November 2026 statt, also nach dem Stichtag der Jahresrechnung (15. November 2026). Es ist in diesem Jahresbericht enthalten, seine Kosten fallen aber ins Nachtragsgeschäft und werden in der Jahresrechnung 2027 geführt.
 
-**Workshops:** [TODO: Gemäss Meetup-Kalender sind für 2026 keine Workshops ausgeschrieben. Falls durchgeführt, hier ergänzen.]
+**Workshops:** 2026 wurden keine separaten Workshops durchgeführt; der Schwerpunkt lag auf den vier Meetups.
 
 **Thematische Schwerpunkte 2026:**
-- Open-Source-Beiträge (Meetup #14)
-- Gemischte Rust/C++-Codebasen (Meetup #17)
+- Open-Source-Beiträge und gemeinsames Arbeiten am Rust-Ökosystem (Meetup #14)
+- Makros und Metaprogrammierung (Meetup #15)
+- Full-Stack-Rust mit Trailbase und Dioxus (Meetup #15)
+- Rust im Unternehmenseinsatz und gemischte Rust/C++-Codebasen (Meetup #16)
 - GPU-Programmierung in Rust (Meetup #17)
-- [TODO: Themen der Meetups #15 und #16 ergänzen]
 
 ---
 
 ## 3. Mitgliederentwicklung
 
 - **Aktivmitglieder:** 5
-- **Passivmitglieder:** [TODO: Anzahl] (Kategorie 2025 eingeführt)
-- **Meetupbesucher:** ca. 20 pro Event (Meetup #15: 19 Anmeldungen gemäss Meetup)
+- **Passivmitglieder:** 0 (Kategorie 2025 eingeführt; bisher keine Passivmitglieder erfasst)
+- **Meetupbesucher:** rund 20 pro Event (19 Anmeldungen für die Meetups #15 und #16 gemäss Meetup)
 
 ---
 
 ## 4. Veranstaltungen und Events
 
-Die vier Meetups 2026 sind in Ziffer 2 tabellarisch aufgeführt. [TODO: falls ein Jahresprogramm oder weitere Formate bestehen, hier ergänzen]
+Ein separates Jahresprogramm besteht nicht. Die vier Meetups 2026 sind in Ziffer 2 aufgeführt.
+
+Ergänzend: Die Meetups fanden an drei Standorten in Basel statt (Optravis LLC am Barfüsserplatz, letsboot.ch am Aeschenplatz, ERNI an der Aeschenvorstadt). Meetup #16 wurde hybrid durchgeführt und konnte zusätzlich online über Teams verfolgt werden. Die Ankündigung erfolgte über meetup.com und den Discord-Server des Vereins.
 
 ---
 
@@ -87,28 +95,33 @@ Die vier Meetups 2026 sind in Ziffer 2 tabellarisch aufgeführt. [TODO: falls ei
 
 ## 7. Highlights und Erfolge
 
-- [TODO: aus Sicht des Vorstands]
-- Stabile Community mit konstanten Teilnehmerzahlen
-- Neue Sponsorenpartner gewonnen (MDPI)
-- [TODO]
+- Vier Meetups an drei Standorten in Basel, darunter erstmals ein Anlass bei ERNI und bei Optravis LLC
+- ERNI als neuer Sponsor gewonnen: zwei Anlässe inklusive Räumlichkeiten und Apéro auf der Dachterrasse
+- Erstmals ein hybrides Meetup (#16), das auch online über Teams verfolgt werden konnte
+- Neues Format erprobt: gemeinsames Arbeiten an Open-Source-Projekten statt Vorträgen (#14)
+- Konstante Teilnahme von rund 20 Personen pro Anlass; Talks aus der Community und aus Unternehmen
+- Statutenrevision vorbereitet: Vorstand mit fünf Mitgliedern, Beschlüsse per E-Mail, Versammlung im Folgejahr
 
 ---
 
 ## 8. Herausforderungen und Erkenntnisse
 
-- Sponsoren finden und binden
+- Die Tätigkeit ist vollständig sponsoringfinanziert; ohne Sponsoring ist kein Anlass möglich
+- Sponsoren finden und langfristig binden; Zusagen sollen schriftlich festgehalten werden (Empfehlung der Revisionsstelle 2025)
+- Für 2026 liegen keine Belege vor. Ab 2027 soll eine einfache Belegablage geführt werden
+- Der bisherige GV-Termin im Dezember zwang zu einem Zwischenabschluss. Mit dem neuen Termin im Folgejahr liegt die Jahresrechnung bei der Einladung abgeschlossen und geprüft vor
 - Kleinere und regelmässigere Meetups sind gewünscht
-- Workshops funktionieren gut, brauchen mehr Sponsoring als kleine Meetups
-- Sponsoring-Vereinbarungen sollen schriftlich festgehalten werden (Empfehlung Revisionsstelle 2025)
 
 ---
 
 ## 9. Ausblick für das kommende Jahr
 
-- Fortsetzung der regelmäßigen Meetups und Workshops
+- Acht Meetups im Rhythmus von sechs Wochen, gemäss Budget 2027
+- Fortsetzung der Vortragsabende und des Open-Source-Formats
 - Erweiterung der Themenpalette
 - Stärkere Fokussierung auf Industry-Partnerships
 - Gewinnung von Passivmitgliedern (Ziel: über 10) für die Aussenwirkung gegenüber Unternehmen und Behörden
+- Ab 2027 findet die Generalversammlung im Frühjahr des Folgejahres statt
 
 ---
 

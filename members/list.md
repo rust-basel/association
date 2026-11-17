@@ -2,4 +2,4 @@
 - Cristina Jan
 - Jônatas Oliveira
 - Brand Roland
-- Guenduez Yasin
+- Weber Yasin

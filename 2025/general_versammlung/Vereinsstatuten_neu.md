@@ -1,11 +1,18 @@
 # Statuten des Vereins Rust Basel 
 
-> Version 0.2
+> Version 0.3
+
+> **Änderungshinweise zu dieser Fassung**
+>
+> - **Vorstandsgrösse:** Ziff. 1 und 2 unter "Vorstand" nennen neu 5 Mitglieder (bisher 3). Die Ämterliste umfasst Präsident, Vizepräsident, Aktuar, Kassier und einen oder mehrere Beisitzer; der Verein hat derzeit zwei Beisitzer (Roland Brand, Jônatas Oliveira), während Silen Locatelli Präsidium und Kassier in Personalunion führt. Grundlage: Der Verein hat 5 Vorstandsmitglieder, und die GV 2025 hat 5 Personen gewählt. Die Fassung 0.2 wurde an der GV vom 4. Dezember 2025 angenommen, aber nie unterzeichnet und nie publiziert; publiziert ist weiterhin Version 0.1.
+> - **Zirkularbeschlüsse (neu in 0.3):** Ziff. 6 unter "Vorstand" lässt Beschlüsse des Vorstands per E-Mail zu. Diese Bestimmung ist neu und nicht Bestandteil der an der GV 2025 angenommenen Fassung; sie wird der GV 2026 als Statutenänderung vorgelegt.
+> - **Termin der Generalversammlung (neu in 0.3):** Ziff. 2 und 3 unter "Vereinsversammlung" verlegen die ordentliche Versammlung von den letzten sechs Monaten des laufenden Jahres in die ersten vier Monate des Folgejahres. Damit liegt die Jahresrechnung bei der Einladung bereits abgeschlossen und geprüft vor. Die Antragsfrist verschiebt sich entsprechend vom 31. Januar auf den 31. Dezember. Ergänzt um eine Übergangsbestimmung: Die GV für das Geschäftsjahr 2027 findet im Frühjahr 2028 statt.
+> - **Vertretung (neu in 0.3):** Ziff. 8 unter "Vereinsversammlung" hält fest, dass ein vertretenes Aktivmitglied als anwesend gilt. Damit zählt eine schriftliche Vollmacht auch für die Anwesenheitsquoren bei Statutenänderungen und Auflösung.
 
 ## Name und Sitz
 
 Unter dem Namen Rust Basel besteht ein Verein, der den vorliegenden Statuten und den Vorschriften in Art. 60 ff. ZGB untersteht.
-Sitz des Vereins ist Basel Stadt.
+Sitz des Vereins ist Basel-Stadt.
 
 ## Zweck
 
@@ -13,7 +20,7 @@ Der Verein ist eine gemeinnützige, nicht gewinnorientierte Organisation, die fo
 
 a) **Bildungsförderung:** Förderung der Bildung und des Wissensaustauschs im Bereich der Rust-Programmiersprache und verwandter Technologien
 
-b) **Wissenschaftliche Forschung:** Unterstützung wissenschaftlichen Arbeiten im Zusammenhang mit Rust
+b) **Wissenschaftliche Forschung:** Unterstützung wissenschaftlicher Arbeiten im Zusammenhang mit Rust
 
 c) **Gemeinnützige Bildungsarbeit:** Organisation von kostenlosen oder kostendeckenden Bildungsveranstaltungen, Workshops, Konferenzen und Schulungen
 
@@ -22,7 +29,7 @@ d) **Wissenstransfer:** Förderung des Austauschs zwischen Wissenschaft, Industr
 e) **Open Source Förderung:** Unterstützung von Open-Source-Projekten und gemeinnütziger Softwareentwicklung
 
 ### Gemeinnützigkeit
-Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke. Der Verein ist selbstlos tätig, er verfolgt keine eigenwirtschaftliche Zwecke.
+Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke. Der Verein ist selbstlos tätig, er verfolgt keine eigenwirtschaftlichen Zwecke.
 
 Der Verein ist politisch und konfessionell neutral.
 Einer Umwandlung des Vereinszwecks müssen alle stimmberechtigten Vereinsmitglieder zustimmen.
@@ -110,19 +117,19 @@ Die Organe des Vereins sind:
    g. Änderung der Statuten;
    h. Auflösung des Vereins;
    i. Beschlussfassung über die Gegenstände, die der Vereinsversammlung durch das Gesetz oder die Statuten vorbehalten ist.
-2. Die ordentliche Vereinsversammlung findet innerhalb der letzen 6 Monate eines Kalenderjahres statt. Die Einladung erfolgt mindestens 30 Tage im Voraus schriftlich oder per E-Mail durch den Vorstand und enthält die Traktanden, die Anträge des Vorstandes sowie den Jahresbericht, die Jahresrechnung und den Bericht der Revisionsstelle. **Passivmitglieder werden über die Vereinsversammlung informiert, eine Teilnahme ist jedoch nicht erforderlich.**
-3. Anträge von Mitgliedern zuhanden der Vereinsversammlung sind schriftlich und spätestens bis 31. Januar eines Kalenderjahres an den Vorstand zu richten. Der Vorstand ergänzt die Traktandenliste um die fristgerecht eingegangenen Anträge.
+2. Die ordentliche Vereinsversammlung findet innerhalb der ersten vier Monate des auf das Geschäftsjahr folgenden Kalenderjahres statt. Die Einladung erfolgt mindestens 30 Tage im Voraus schriftlich oder per E-Mail durch den Vorstand und enthält die Traktanden, die Anträge des Vorstandes sowie den Jahresbericht, die Jahresrechnung und den Bericht der Revisionsstelle. **Passivmitglieder werden über die Vereinsversammlung informiert, eine Teilnahme ist jedoch nicht erforderlich.**
+3. Anträge von Mitgliedern zuhanden der Vereinsversammlung sind schriftlich und spätestens bis 31. Dezember des Geschäftsjahres an den Vorstand zu richten. Der Vorstand ergänzt die Traktandenliste um die fristgerecht eingegangenen Anträge.
 4. Eine ausserordentliche Vereinsversammlung wird auf Beschluss des Vorstandes, auf Antrag mit schriftlicher Begründung von mindestens 1/5 der stimmberechtigten Mitglieder oder auf Antrag der Revisionsstelle einberufen. Die Einladung erfolgt mindestens 10 Tage vor der Versammlung.
 5. Den Vorsitz der Vereinsversammlung führt der Präsident, bei dessen Verhinderung der Vizepräsident des Vorstandes oder ein anderer von der Vereinsversammlung gewählter Tagespräsident. Die Vereinsversammlung bezeichnet einen Protokollführer und 2 stimmberechtigte Mitglieder für die Ermittlung von Abstimmungs- und Wahlergebnissen.
 6. Über die Beschlüsse der Vereinsversammlung ist ein Protokoll zu führen, das vom Vorsitzenden und vom Protokollführer unterzeichnet wird. Die Mitglieder sind berechtigt, das Protokoll einzusehen.
 7. Abstimmungen und Wahlen finden offen oder auf Beschluss der Vereinsversammlung schriftlich statt.
-8. Jedes **Aktivmitglied** hat eine Stimme und kann sich mittels schriftlicher Vollmacht durch eine Drittperson vertreten lassen. **Passivmitglieder haben kein Stimmrecht.**
+8. Jedes **Aktivmitglied** hat eine Stimme und kann sich mittels schriftlicher Vollmacht durch eine Drittperson vertreten lassen. **Ein vertretenes Aktivmitglied gilt als anwesend.** **Passivmitglieder haben kein Stimmrecht.**
 9. Die Vereinsversammlung fasst ihre Beschlüsse und vollzieht ihre Wahlen mit der absoluten Mehrheit der anwesenden **stimmberechtigten Mitglieder** (Aktivmitglieder), sofern nicht eine zwingende Vorschrift des Gesetzes oder die Statuten etwas anderes bestimmen. Bei Stimmengleichheit hat der Vorsitzende den Stichentscheid.
     
 ### Vorstand
 
-1. Der Vorstand besteht aus 3 Mitgliedern. Sie werden von der Vereinsversammlung für die Amtsdauer von einem Jahren gewählt. Wiederwahl ist zulässig. Eine Abberufung ist jederzeit und fristlos möglich.
-2. Die Vereinsversammlung wählt den Präsidenten. Im Übrigen konstituiert sich der Vorstand selbst und bestimmt die Zeichnungsberechtigung. Grundsätzlich gilt Kollektivunterschrift oder Einzelunterschrift. Der Vorstand besteht aus dem Präsidenten, Vizepräsidenten, Aktuar und Kassier. Ämterkumulation ist zulässig.
+1. Der Vorstand besteht aus 5 Mitgliedern. Sie werden von der Vereinsversammlung für die Amtsdauer von einem Jahr gewählt. Wiederwahl ist zulässig. Eine Abberufung ist jederzeit und fristlos möglich.
+2. Die Vereinsversammlung wählt den Präsidenten. Im Übrigen konstituiert sich der Vorstand selbst und bestimmt die Zeichnungsberechtigung. Grundsätzlich gilt Kollektivunterschrift oder Einzelunterschrift. Der Vorstand besteht aus dem Präsidenten, dem Vizepräsidenten, dem Aktuar, dem Kassier und einem oder mehreren Beisitzern. Ämterkumulation ist zulässig.
 3. Dem Vorstand obliegt die Leitung und Vertretung des Vereins. Er kann in allen Angelegenheiten Beschluss fassen, die nicht nach dem Gesetz oder den Statuten der Vereinsversammlung zugeteilt sind. Es sind dies insbesondere:
    a. Führung der laufenden Geschäfte und Organisation des Vereins;
    b. Vorbereitung und Durchführung der Vereinsversammlungen;
@@ -130,6 +137,11 @@ Die Organe des Vereins sind:
    d. Buchführung.
 4. Der Vorstand wird auf Antrag des Präsidenten oder auf Verlangen eines Vorstandsmitgliedes einberufen. Er ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist. Die Sitzungen sind zu protokollieren.
 5. Jedes Vorstandsmitglied hat eine Stimme. Beschlüsse erfolgen mit dem einfachen Mehr der Anwesenden. Bei Stimmengleichheit hat der Präsident den Stichentscheid.
+6. **Beschlüsse auf dem Zirkularweg:** Der Vorstand kann Beschlüsse ohne Sitzung auf dem Weg der schriftlichen oder elektronischen Zustimmung fassen, insbesondere per E-Mail. Ein solcher Beschluss ist gültig, wenn
+   a. allen Vorstandsmitgliedern der Antrag samt den erforderlichen Unterlagen schriftlich oder elektronisch zugestellt wurde und
+   b. sämtliche Vorstandsmitglieder dem Antrag schriftlich oder elektronisch zugestimmt haben.
+   Verlangt ein Vorstandsmitglied vor seiner Zustimmung eine mündliche Beratung, ist der Antrag an der nächsten Vorstandssitzung zu behandeln.
+   Zirkularbeschlüsse sind zu protokollieren; die Zustimmungen sind dem Protokoll beizulegen.
 
 ### Revisionsstelle
 
@@ -156,24 +168,25 @@ Die Organe des Vereins sind:
 2. Wird das Quorum nicht erreicht, ist eine zweite Vereinsversammlung mit den gleichen Traktanden innerhalb von 8 Wochen einzuberufen. Diese Versammlung ist ohne Rücksicht auf die Zahl der anwesenden **Aktivmitglieder** beschlussfähig.
 
 ### Auflösung
-3. Die Auflösung des Vereins erfordert die Anwesenheit von mindestens drei Vierteln aller **Aktivmitglieder** sowie die Zweidrittelmehrheit der abgegebenen Stimmen der **stimmberechtigten Mitglieder**.
+1. Die Auflösung des Vereins erfordert die Anwesenheit von mindestens drei Vierteln aller **Aktivmitglieder** sowie die Zweidrittelmehrheit der abgegebenen Stimmen der **stimmberechtigten Mitglieder**.
 
 ### Liquidation
-4. Bei Auflösung des Vereins fällt das Vereinsvermögen an eine gemeinnützige Organisation mit ähnlichen Zielen. Die Vereinsversammlung bestimmt die begünstigte Organisation. **Das Vereinsvermögen darf nicht an Mitglieder zurückfallen.**
+1. Bei Auflösung des Vereins fällt das Vereinsvermögen an eine gemeinnützige Organisation mit ähnlichen Zielen. Die Vereinsversammlung bestimmt die begünstigte Organisation. **Das Vereinsvermögen darf nicht an Mitglieder zurückfallen.**
+
+## Übergangsbestimmungen
+
+1. Die Generalversammlung für das Geschäftsjahr 2026 findet noch nach der bisherigen Regelung statt (Versammlung vom 17. Dezember 2026).
+2. Die Generalversammlung für das Geschäftsjahr 2027 findet im Frühjahr 2028 statt.
+3. Die an der Generalversammlung vom 17. Dezember 2026 beschlossene Fassung gilt ab deren Annahme.
 
 ## Inkrafttreten der Statuten
 
+1. Diese Statuten wurden an der Gründerversammlung vom 8. April 2025 genehmigt und traten mit der Annahme in Kraft (Fassung 0.1).
+2. An der Generalversammlung vom 4. Dezember 2025 wurden der Vereinszweck neu gefasst und die Passivmitgliedschaften eingeführt. Die Änderungen traten mit der Annahme in Kraft (Fassung 0.2).
+3. An der Generalversammlung vom 17. Dezember 2026 wurden die Vorstandsgrösse auf fünf Mitglieder festgelegt, die Ämterliste bereinigt, der Zirkularbeschluss des Vorstands eingeführt, der Termin der ordentlichen Versammlung in die ersten vier Monate des Folgejahres verlegt sowie die Antragsfrist der Mitglieder und die Vertretung geregelt. Diese Fassung 0.3 tritt mit der Annahme in Kraft und ersetzt die vorangehenden Fassungen.
 
-Diese Statuten wurden an der Gründerversammlung vom 08.04.25 genehmigt und treten sofort in Kraft.
+Ort und Datum: Basel, 17. Dezember 2026
 
+[Unterschrift Präsident] Silen Locatelli
 
-Ort und Datum  
-
-
-
-[Unterschrift Gründerpräsident]  
-
-
-
-[Unterschrift Protokollführer]  
-
+[Unterschrift Aktuar] Jan Cristina

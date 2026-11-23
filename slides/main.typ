@@ -8,7 +8,7 @@
   math-font: "DejaVu Sans Mono",
   code-font: "DejaVu Sans Mono",
   text-size: 22pt,
-  footer: [Rust Meetup \#16 \@ ERNI],
+  footer: [Rust Meetup \#17 \@ ERNI],
 )
 
 #set page(paper: "presentation-16-9")
@@ -19,7 +19,7 @@
   #toolbox.side-by-side[
     Rust Basel \
     #text(size: 0.5em)[
-      Rust Meetup \#16 \@ ERNI]
+      Rust Meetup \#17 \@ ERNI]
   ][
     #image("images/favicon.png")
   ]
@@ -56,11 +56,37 @@
 ]
 
 #slide[
-  = Today
+  = Our Community Partner
 
-  - We start at about 18:15: 
-    - Alexander Walter: From Memory Safety to Business Value: building with Rust at ERNI
-    - Silen Locatelli: Rust - fast business logic
-    - Yasin Weber: Experiences from mixed Rust/C++ Codebases
-  - End approx 20:00 - with Apero
+  #align(center + horizon)[
+    #rect(fill: white, width: 100%, height: 100%)[
+      #image("images/baseltech-logo.svg", height: 80%, fit: "contain")
+    ]
+  ]
+]
+
+#let timeline-entry(time, title, details: none) = (
+  text(fill: gray)[#time],
+  circle(radius: 6pt, fill: rgb("#eb811b"), stroke: none),
+  [
+    #title
+    #if details != none [ \ #text(size: 0.7em, fill: gray)[#details] ]
+  ],
+)
+
+#slide[
+  = Timeline
+
+  #v(0.5em)
+  #grid(
+    columns: (auto, auto, 1fr),
+    column-gutter: 1em,
+    row-gutter: 0.9em,
+    align: (right + horizon, center + horizon, left + horizon),
+    ..timeline-entry[18:15][Intro: ERNI],
+    ..timeline-entry[][Intro: BaselTech],
+    ..timeline-entry([], [Yasin Weber], details: [Experiences from mixed Rust/C++ Codebases]),
+    ..timeline-entry([], [Jan Cristina], details: [GPU programming in Rust]),
+    ..timeline-entry[\~20:00][Apéro],
+  )
 ]
